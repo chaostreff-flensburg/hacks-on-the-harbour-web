@@ -1,16 +1,15 @@
 <template>
   <figure>
     <router-link to="/" class="logo-link">
-      <img src="../../assets/logo.svg" class="logo" id="logo" alt="RüTüTa Logo">
+      <img src="../../assets/logo.png" class="logo" id="logo" alt="hacks on the harbour logo">
     </router-link>
-    <no-ssr>
-      <pixel-grid class="grid"></pixel-grid>
-    </no-ssr>
+    <rocket-animation />
   </figure>
 </template>
 
 <script>
   import NoSSR from 'vue-no-ssr'
+  import rocketAnimation from "./rocket-animation";
 
   export default {
     components: {
@@ -41,7 +40,6 @@ figure {
 
   cursor: pointer;
   filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.25));
-  opacity: 0;
   transition: opacity 0.5s ease-in-out;
 }
 @media (max-width: 700px) {

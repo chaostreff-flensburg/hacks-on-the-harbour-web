@@ -1,4 +1,4 @@
-# ruetueta-web
+# 
 
 ![build](https://github.com/chaostreff-flensburg/ruetueta-web/actions/workflows/build.yml/badge.svg) 
 ![deploy-ghpages](https://github.com/chaostreff-flensburg/ruetueta-web/actions/workflows/deploy-ghpages.yml/badge.svg) 

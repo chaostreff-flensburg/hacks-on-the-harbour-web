@@ -1,7 +1,7 @@
 {
-  "name": "ruetueta",
+  "name": "hacks-on-the-river",
   "version": "0.0.1",
-  "author": "Thorben Dittmar <roikiermedia@users.noreply.github.com>",
+  "author": "ADB <adb-sh@users.noreply.github.com>",
   "private": true,
   "scripts": {
     "dev": "vuepress dev content",

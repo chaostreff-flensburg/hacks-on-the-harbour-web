@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Die vierten 23. Rüspeler Tüfteltage",
-  description: "Das online Frickelfestival auf dem Luettenshoff. 09. April 2022",
+  title: "Hacks On The Harbour",
+  description: "",
   locales: {
     // Vuepress uses the default lang-attribute 'en-US'
     "/": {
