@@ -1,82 +1,35 @@
-# F.A.Q.
+# FAQ
 
-Einige Fragen stellst du dir nicht alleine, sondern tauchen immer wieder auf. Die häufigsten versuchen wir hier zu sammeln.
+**Is there an age limit?**
 
-[[toc]]
+Gernally speaking no. If you are over 18 years old or are accompanied by someone over 18 years old there is no limitation, through the best experience is probably 12years or older. If you are between 12 and 18 years old we definilty recommend you stay for the workshops and leave after the pizza party. From Flensburg we will provide accompanied travel if you have "Neue Tüftler" Ticket.
 
-## Event
+**Where is it exactly?**
+Biblioteket Sønderborg (Nørre Havnegade 15, 6400 Sønderborg, Dänemark)
 
-### Ich kann nicht programmieren/hacken/schweißen. Kann ich trotzdem kommen?
-**Ja!**   
-Wir bringen eine Menge einsteigerfreundliche Projekte mit und versuchen Teams zu bilden in denen alle voneinander lernen können. Da kannst auch du den Nerds etwas beibringen und zum Beispiel künstlerisch tätig werden oder dich wagen etwas Neues auszuprobieren.
+Link Google Maps | Linke Open Street Maps
 
-### Was sollte ich mitbringen?
-Wenn du bereits ein Projekt zum Basteln hast, bring es gerne mit. Ansonsten empfehlen wir einen Laptop, Dinge zum Frickeln, die Kulti-Tasche mit Duschgel und Zahnbürste und alles was du zum Schlafen brauchst.   
-Oh, und ein Handtuch. Man sollte immer wissen wo sein Handtuch ist.
-Außerdem solltest du dir ein Besteckset mitnehmen. Besonders einen tiefen Teller oder Schüssel dabei zu haben wird von Vorteil sein. Aber natürlich auch Messer, Gabel und Löffel.
+**Can I come just for meeting people and working on my own project?**
+Yes definilty! The workshops and talks are an optinal bonus. A lot of the experience from our last events is time to work on your own project or to find others and work together. We will have workspaces for that. If you want to bring more than your laptop and 5V electronics please ask before. Write as an email to hoth@chaostreff-flensburg.de
 
-### Warum muss ich volljährig sein um mitzumachen?
-Das hat mit der Versicherung der Veranstaltung zu tun und damit, dass auf dem Hof gefilmt wird. Da können wir leider nichts dran ändern. Auch die Begleitung eines Erwachsenen oder der "Muttizettel" reicht da nicht.
+**Why is it just on a saturday?**
+Normally our events are full weekend from friday to sunday. Because it is our first event and their is still a pandamic situation we are planing a small event. If everything works out we will look for full weekend in 2023.
 
-### Warum muss ich meine Bildrechte abgeben? Was bedeutet das?
-Auf dem Lüttenshoff wird die Webserie Kliemannsland produziert. Die rechtlichen Fragen die man klären muss um jemanden zu filmen sind von Fall zu Fall unterschiedlich und schwierig. Deswegen gilt dies als Hausregel auf dem Hof. Sollte gefilmt werden, wird dir aber niemand eine Kamera in's Gesicht halten. Wir fragen alle Teilnehmer deren Projekte wir zeigen wollen und haben ein erfahrenes und freundliches Kamerateam das auch mit einem 'Nein' leben kann. Eventuell bist du aber im Hintergrund eines Videos oder Fotos zu sehen.
+**How much is a ticket?**
+The tickets are free but you can contribute to the event and pay an amount of your choosing. The money is managed by the german non-profit Chaostreff Flensburg e.V.. This is only possible because of the generous accomedation by the Biblioteket Sønderborg!
 
-## Tickets
+**Travel**
 
-### Was ist im Ticket enthalten? Gibt es Essen und Trinken?
-Jeder Teilnehmer braucht ein Ticket. Frühstück am Samstag & Sonntag und Abendessen am Freitag & Samstag sind inbegriffen. Wasser kommt aus der Leitung, wir haben aber auch Mate, Limo und Snacks gegen eine kleine Spende. Camping auf dem Gelände ist für Teilnehmer kostenlos möglich, das Übernachten in der Turnhalle bedarf eines Turnhallen-Tickets.
 
-### Warum kostet das Ticket so viel?
-So ein Event kostet viel Geld. Material, Lebensmittel, Miete, Nebenkosten und vieles mehr will bezahlt werden. Doch keiner von uns steckt sich die Taschen voll. Das Event wird von Freiwilligen gestemmt und alles Geld das am Ende vielleicht übrig bleibt geht an unseren gemeinnützigen Verein um viele weitere Events und Workshops zu finanzieren.
 
-### Gibt es einen Schüler/Studenten/Azubi/Sonstigen-Rabatt?
-Nein, leider nicht. Wenn du dir das Ticket wirklich nicht leisten kannst, aber glaubst das du bei den RüTüTa genau richtig bist, schreibe uns eine kurze Mail. Wir schauen dann gemeinsam ob wir da nicht eine Lösung finden.
+Car
+It is around 45min from Flensburg to Sønderborg. So from Hamburg you should plan atlest 2H and 45minutes. It will take you 30minutes from Apenrade and around 60 minutes from Kolding Use the navigation system of your choice.
 
-## Camping & Turnhalle
+Shuttle from Flensburg
+We will organize a shuttle from Flensburg. We are still working on the details. You will need to get a ticket for the shuttle.
 
-### Kann ich mit meinem Zelt/Wohnwagen/Wohnmobil kommen?
-Ja. Gib beim Kauf des Tickets bitte an mit was du kommst. Bei besonderen Ansprüchen oder Fragen kannst du uns [via Mail kontaktieren](mailto:frage@chaostreff-flensburg.de).
+Train
+It is a 12 minutes walk from Soenderborg st to the Biblioteket Sønderborg. By train it will take around 2H and 45minutes from flensburg. Because of the long time it is not really recommended by us. From Kolding it takes around 1H and 19minutes.
 
-### Könnt ihr mir ein Zelt leihen?
-Nein, du musst dein eigenes mitbringen.
-
-### Kostet Camping auch etwas?
-Nein.
-
-### Gibt es Strom/Wasser/Internet auf dem Campground?
-Eher nein, nein, aber WLAN. Generatoren für Strom sind auf dem Campground leider auch nicht erlaubt. Du möchtest das Wochenende ja aber auch auf dem Event verbringen und nicht im Wohnwagen.
-
-### Warum kostet das Schlafen in der Turnhalle Geld?
-Wir mieten die Halle vom lokalen Sportverein.
-
-### Wie weit ist die Turnhalle vom Lüttenshoff weg?
-Die Turnhalle ist direkt auf der anderen Straßenseite.
-
-### Was muss ich mitbringen wenn ich in der Turnhalle schlafe?
-Eine Isomatte oder Luftmatratze und ein Schlafsack sind zu empfehlen.
-
-### Gibt es Duschen?
-Ja, ihr könnt in der Turnhalle duschen. Das gilt auch für alle Camper.
-
-## Sonstiges
-
-### Gibt es Mitfahrgelegenheiten?
-Klar! Hier haben wir ein Dokument mit "ich suche:" und "ich biete:" 
-[#RüTüTa Mitfahrgelegenheiten](https://md.ctfl.space/r%C3%BCt%C3%BCta-mfg?both)
-
-### Gibt es einen Chat um sich auszutauschen?
-Ja dazu haben wir einen Rocketchat für Veranstaltungen aufgesetzt. Dort könnt ihr euch registrieren.
-[https://chat.chaostreff-flensburg.de/home](https://chat.chaostreff-flensburg.de/home)
-
-### Wird Fynn da sein? Und Figge? Und Brian? Und…
-Die RüTüTa sind nicht nur einfach ein Meet & Greet, sondern ein kleines Communityevent auf dem Lüttenshoff. Wenn du eigentlich nur die Kliemannsland-Crew treffen möchtest und am Rest nicht wirklich interessiert bist, schau lieber im Café vorbei oder besuche eines der anderen Events auf dem Hof.
-
-### Was ist der Chaostreff? Und was machen die Flensburger in Rüspel?
-Chaostreffs sind Gruppen die sich zum Chaos Computer Club zugehörig fühlen. Der Chaostreff Flensburg e.V. ist ein gemeinnütziger Verein der genau so eine Gruppe ist. Wir betreiben in der Flensburger Nordstadt einen Hackerspace in dem wir an Projekten basteln, uns treffen und austauschen.   
-Zum Kliemannsland gibt es schon eine längere Verbindung. Von Anfang an haben einige unserer Mitglieder das Netzwerk und den Hof mit aufgebaut. So haben wir auch die IT-Crew kennengelernt und sind auch ein Teil davon geworden. Beim 34. Chaos Communication Congress schlossen wir dann den Plan doch einfach mal ein Event zusammen zu machen. Der Rest ist Geschichte.
-
-### Rüspel ist so weit weg. Macht ihr auch andere Events?
-Ja. Besucht doch auch mal die [Hacks on the Beach](https://chaostreff-flensburg.de/hacks-on-the-beach-2020/) in unserer Heimatstadt Flensburg.
-
-### Ich finde nicht was ich suche!
-Okay, das war keine Frage, aber wenn dein Anliegen hier nicht geklärt wurde kannst du immer eine Mail an [frage@chaostreff-flensburg.de](mailto:frage@chaostreff-flensburg.de) senden.
+Bus
+You can take the line 110 by sydtrafik from Flensburg ZOB to the station Arnkilgade v sygehuset and walk 15 minutes. The journey is around 1h and 20 minutes. 

@@ -1,99 +1,24 @@
----
-isHomepage: true
----
+# Welcome to the first "Hacks on the Habour"
 
-::: slot intro-text
-100 Nerds, ein verrückter Bauernhof und deine ausgefallenen Ideen. Vom Sprüche-Klopfer-Knopf bis zum Disketten-Orchester.   
-   
-Und? Was wirst du erfinden?
-### 8.-10. Mai 2020 im Lüttenshoff, Rüspel
-:::
+Hacks on the Habour is a maker and hacker festical directly at the Sønderborg habour. You will not only have great views but also a diverse program with workshops, talks and other people to connect. In 2022 it will be a one day festival on the 25h of June Saturday from 12:00 till 22:00. It is organized by the german non profit Chaostreff Flensburg e.V. in cooperation with generous support by the Biblioteket Sønderborg. For better planning and help with the pizza supply we urge to get a free ticket. All official conference information will be in english. We will provide car pooling or bussed from Flensburg, more information here.
 
+You can get your free ticket here.
 
-# Willkommen zu den vierten 23. Rüspeler Tüfteltagen!
+Sounds familar? This event will be the continueation of our "Hacks on the Beach" event from Flensburg. It will also be simimlar to the "Rüspeler Tütfeltage" which is an event we co organised in Lower Saxony.
 
-Immer noch Pandemie - trotzdem Bock auf coole Leute. Deswegen wird es die vierten 23. Rüspeler Tüfteltage wieder als Online Livestream geben. Live und in Farbe aus Rüspel! Wir haben ein volles Programm und zusammen mit euch wollen wir einen wunderbaren Samstagabend verbringen:
+Program
 
-**Samstag (09.04.2022) ab 17:00 Uhr**
+| Time  | Program                               |
+| ----- | ------------------------------------- |
+| 11:00 | Car Pooling from Flensburg            |
+| 12:00 | Opening - All Workshop Areas are Open |
+| 12:15 | Introduction 3D Printing              |
+| 13:45 | Introduction Hack your t-shirt        |
+| 15:15 | Introduction Soldering                |
+| 16:45 | Introduction Software Development     |
+| 18:00 | Pizza Party                           |
+| 19:30 | Start of Talks TBA                    |
+| 22:00 | Official End                          |
+|       |                                       |
 
-**auf**
-**[https://www.twitch.tv/chrisfigge](https://www.twitch.tv/chrisfigge)**
-
-Wir freuen uns über rege Beteiligung. Du kannst einfach nur zuschauen oder zusammen mit uns kleine Projekte hacken, zocken oder auch nur mit anderen Leuten ein bisschen schnacken.
-
-## Badge
-
-Es wird diesmal zum allerersten Mal in der Geschichte der 23. Rüspeler Tüfteltage ein Löt-Badge geben. Mit unserem kleinen Wechselblinker-Bausatz kannst du dir die RüTüTa nach Hause holen.
-
-Einfach bestellen und gemeinsam mit dem Stream zusammen Löten: [https://tickets.chaostreff-flensburg.de/ctfl/4ruetueta/](https://tickets.chaostreff-flensburg.de/ctfl/4ruetueta/)
-
-## Programm
-| Uhrzeit| Bezeichnung |
-|--------|-------------|
-|17:00| Kleine Eröffnung |
-|17:15| Löten & Labern: Rütüta Badge |
-|19:00| Chaos Kombüsen Buffet |
-|20:30| Basteln, Proggen & Löten: DIY Controller |
-||Open End|
-
-## Einkaufsliste fürs Chaos Kombüsen Buffet
-
-### Bohnen Chili
-2 Personen
-| Wie viel | Was |
-| --: | :-- |
-| 1 | Große Zwiebel (Rot) |
-| 1-2 | Paprika (Rot) |
-| 1 Dose | Kidney Bohnen |
-| 1 Dose | Schwarze Bohnen |
-| 1 Dose | Gehackte Tomaten |
-| 500ml | Passierte Tomaten |
-| Teelöffel | Salz, Pfeffer, <br/> Paprikapulver,<br/> Chilipulver/Flocken |
-
-[Rezept](https://github.com/scammo/rezepte/blob/main/suppen/bohnen-chilli.md)
-
-### Blumenkohl Wings
-2 Personen
-| Wie viel | Was |
-| --: | :-- |
-| 1 | Blumenkohl |
-| 150g | Mehl |
-| 200ml | Pflanzliche Milch <br/> z.B. Soja Milch |
-| 200g | Paprika Chips |
-| 1 Esslöffel | (Sonnenblumen) Öl |
-| Teelöffel | Salz, Pfeffer, <br/> Paprikapulver |
-| 1 | BBQ Sauce |
-
-[Rezept](https://biancazapatka.com/de/barbecue-blumenkohl-wings-vegan-glutenfrei/)
-
-### Omas Eisbergsalat
-2 Personen
-| Wie viel | Was |
-| --: | :-- |
-| 1 Kopf | Eisbergsalat |
-| 1 Becher | (Vegane) Sahne |
-| 1 kleine Dose | Mandarinen |
-| 2 Tüten | Vanillezucker |
-| 1 | große Zitrone |
-| nach Bedarf | Zucker
-
-[Rezept](https://www.chefkoch.de/rezepte/1935121314955092/Eisbergsalat-mit-Mandarinen.html)
-
-### Apple Crumble Nachtisch
-2 Personen
-| Wie viel | Was |
-| --: | :-- |
-| 3 | Äpfel |
-| 100g | Mehl |
-| 100g | Zucker |
-| 100g | Magarine |
-| 1 Päckchen | Vanille Zucker |
-
-[Rezept](https://github.com/scammo/rezepte/blob/main/nachtisch/apple-crumble.md)
-
-
-## Links
-- Twitch-Stream: [https://www.twitch.tv/chrisfigge](https://www.twitch.tv/chrisfigge)
-- Non-Twitch-Stream: [PeerTube](https://video.cybre.town/videos/watch/4f223e5c-fdb1-435d-af42-7fca559a19ca).
-- RüTüTa Instagram: [https://www.instagram.com/ruetueta](https://www.instagram.com/ruetueta)
-- Chaostreff Flensburg Twitter: [https://twitter.com/chaos_fl](https://twitter.com/chaos_fl)
+You want to add a talk ranging from 5 to 45 minutes? Write us an email to hoth@chaostreff-flensburg.de
