@@ -1,18 +1,18 @@
 <template>
   <section class="layout">
-    <ruetueta-header class="header"></ruetueta-header>
+    <hoth-header class="header"></hoth-header>
 
     <main class="content">
-      <ruetueta-nav class="nav"/>
+      <hoth-nav class="nav"/>
       <Content class="card"/>
     </main>
 
-    <ruetueta-footer class="footer"></ruetueta-footer>
+    <hoth-footer class="footer"></hoth-footer>
   </section>
 </template>
 
 <script>
-import RuetuetaNav from "../components/ruetueta-nav";
+import RuetuetaNav from "../components/hoth-nav";
 export default {
   components: {RuetuetaNav}
 }
