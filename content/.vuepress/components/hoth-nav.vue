@@ -1,10 +1,9 @@
 <template>
   <section>
     <nav>
-      <router-link to="/tickets" class="nav-link">Tickets</router-link>
-      <router-link to="/fahrplan" class="nav-link">Fahrplan</router-link>
-      <router-link to="/anfahrt-unterkunft" class="nav-link">Anfahrt & Unterkunft</router-link>
-      <router-link to="/faq" class="nav-link">F.A.Q.</router-link>
+      <a href="https://tickets.chaostreff-flensburg.de/ctfl/hoth2022/" class="nav-link"  target="_blank">Tickets</a>
+      <a href="#program">Program</a>
+      <a href="#faq">F.A.Q.</a>
     </nav>
   </section>
 </template>
