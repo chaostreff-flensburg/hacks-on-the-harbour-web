@@ -10,11 +10,11 @@
 <style scoped>
 footer {
   z-index: 10;
-  padding: 24px 0;
+  padding: 24px;
   margin-top: 32px;
 
-  color: var(--white);
-  background-color: var(--black);
+  color: var(--black);
+  background-color: #fdf2d7;
 }
 section {
   display: flex;

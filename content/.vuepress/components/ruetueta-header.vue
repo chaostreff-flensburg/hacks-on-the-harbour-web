@@ -1,8 +1,9 @@
 <template>
-  <figure>
+  <figure class="header">
     <router-link to="/" class="logo-link">
       <img src="../../assets/logo.png" class="logo" id="logo" alt="hacks on the harbour logo">
     </router-link>
+    <img src="../../assets/header-back.svg" class="back-curve" alt="">
     <rocket-animation />
   </figure>
 </template>
@@ -23,6 +24,7 @@
   appearance: none;
 }
 figure {
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -30,6 +32,8 @@ figure {
   padding-top: 52px;
   padding-bottom: 24px;
   margin: 0;
+
+  background-color: #b6e1f9;
 }
 .logo {
   position: relative;
@@ -41,6 +45,11 @@ figure {
   cursor: pointer;
   filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.25));
   transition: opacity 0.5s ease-in-out;
+}
+.back-curve{
+  width: 100%;
+  position: absolute;
+  top: 100%;
 }
 @media (max-width: 700px) {
   .logo {

@@ -3,7 +3,8 @@
     <ruetueta-header class="header"></ruetueta-header>
 
     <main class="content">
-      <Content/>
+      <ruetueta-nav class="nav"/>
+      <Content class="card"/>
     </main>
 
     <ruetueta-footer class="footer"></ruetueta-footer>
@@ -11,7 +12,10 @@
 </template>
 
 <script>
-export default {}
+import RuetuetaNav from "../components/ruetueta-nav";
+export default {
+  components: {RuetuetaNav}
+}
 </script>
 
 <style>
@@ -90,6 +94,7 @@ tr:nth-of-type(even) {
     '. content content .'
     'footer footer footer footer';
   grid-gap: 0 16px;
+  background-color: #3b579a;
 }
 @media (max-width: 700px) {
   .layout {
@@ -104,6 +109,7 @@ tr:nth-of-type(even) {
 }
 .header {
   grid-area: header;
+  margin: 0 0 2rem 0;
 }
 .nav {
   grid-area: nav;
@@ -127,14 +133,23 @@ main, .card {
   z-index: 10;
   padding: 12px 32px;
   margin-bottom: 32px;
-
+}
+.nav{
+  position: relative;
+  width: 100%;
+}
+.card{
   border-radius: var(--border-radius);
-  background-color: var(--background);
   box-shadow: var(--box-shadow);
+  background-color: #fffc;
+  padding: 2rem;
 }
 @media (max-width: 700px) {
   main, .card {
     padding: 12px 22px;
+  }
+  main{
+    padding: .5rem;
   }
 }
 </style>

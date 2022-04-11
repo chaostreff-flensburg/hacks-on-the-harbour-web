@@ -28,9 +28,9 @@ const Rocket = class {
     let dirX = 0;
     let dirY = 0;
     do {
-      dirX = Math.random() * 20 - 10;
-      dirY = Math.random() * 20 - 10;
-    } while(dirX**2 + dirY**2 < 8)
+      dirX = Math.random() * 8 - 4;
+      dirY = Math.random() * 8 - 4;
+    } while(dirX**2 + dirY**2 < 2)
 
     let angle = Math.atan(dirX/dirY);
 
@@ -70,7 +70,7 @@ export default {
           await sleep(100);
         }
       };
-      for (let i = 0; i<10; i++){
+      for (let i = 0; i<8; i++){
         slot();
       }
     }
@@ -92,7 +92,7 @@ export default {
 }
 .rakede{
   position: absolute;
-  height: 4rem;
+  height: 5rem;
   opacity: 0;
 }
 .active{
