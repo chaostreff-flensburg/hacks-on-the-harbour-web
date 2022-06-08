@@ -4,7 +4,7 @@ module.exports = {
   locales: {
     // Vuepress uses the default lang-attribute 'en-US'
     "/": {
-      lang: "de-DE" // this will be set as the lang attribute on <html>
+      lang: "en-EN" // this will be set as the lang attribute on <html>
     }
   },
   head: [

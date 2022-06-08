@@ -4,6 +4,7 @@
 
     <main class="content">
       <hoth-nav class="nav"/>
+      <ToggleLanguage />
       <Content class="card"/>
     </main>
 
@@ -12,9 +13,9 @@
 </template>
 
 <script>
-import RuetuetaNav from "../components/hoth-nav";
+import ToggleLanguage from "../components/ToggleLanguage";
 export default {
-  components: {RuetuetaNav}
+  components: {ToggleLanguage}
 }
 </script>
 
