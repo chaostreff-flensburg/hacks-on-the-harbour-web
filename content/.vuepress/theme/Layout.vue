@@ -4,7 +4,9 @@
 
     <main class="content">
       <hoth-nav class="nav"/>
-      <ToggleLanguage />
+      <ClientOnly>
+        <ToggleLanguage />
+      </ClientOnly>
       <Content class="card"/>
     </main>
 
