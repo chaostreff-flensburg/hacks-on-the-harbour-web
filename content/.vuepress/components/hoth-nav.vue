@@ -1,12 +1,54 @@
 <template>
   <section>
-    <nav>
-      <a href="https://tickets.chaostreff-flensburg.de/ctfl/hoth2022/" class="nav-link"  target="_blank">Tickets</a>
-      <a href="#program">Program</a>
-      <a href="#faq">F.A.Q.</a>
-    </nav>
+    <ClientOnly>
+      <nav v-if="currentLang.lang === 'english'">
+        <a href="https://tickets.chaostreff-flensburg.de/ctfl/hoth2022/" class="nav-link"  target="_blank">Tickets</a>
+        <a href="#program">Program</a>
+        <a href="#faq">F.A.Q.</a>
+      </nav>
+      <nav v-else-if="currentLang.lang === 'german'">
+        <a href="https://tickets.chaostreff-flensburg.de/ctfl/hoth2022/" class="nav-link"  target="_blank">Tickets</a>
+        <a href="#programm">Programm</a>
+        <a href="#faq">F.A.Q.</a>
+      </nav>
+    </ClientOnly>
   </section>
 </template>
+
+<script>
+export default {
+  name: 'HothNav',
+  data(){
+    return {
+      currentLang: undefined,
+      languages: {
+        'en-UK': {
+          lang: 'english',
+          path: '/en',
+        },
+        'de-DE': {
+          lang: 'german',
+          path: '/de',
+          id: 'de-DE',
+        },
+      }
+    };
+  },
+  methods: {
+    updateLang() {
+      this.currentLang = Object.entries(this.languages).find(([id, lang]) => this.$route.path.startsWith(lang.path))?.[1];
+    }
+  },
+  created(){
+    this.updateLang();
+  },
+  watch: {
+    '$route': function (){
+      this.updateLang();
+    }
+  },
+}
+</script>
 
 // @ToDo: rainbow colors, responsive side margin
 
