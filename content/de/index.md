@@ -5,7 +5,7 @@ Das Hacks on the Harbour ist ein Maker & Hacker Festival - direkt am Hafen von S
 Wir starten 2022 mit einem eintägigen Festival am 25. Juni (Samstag) von 12 Uhr bis 22 Uhr. Das Event wird von dem "non-profit" Verein ["Chaostreff Flensburg e.V."](https://chaostreff-flensburg.de/) zusammen mit Unterstützung der [Biblioteket Sønderborg](https://biblioteket.sonderborg.dk/) organisiert. Dies ist der Nachfolger unseres bekannten Events ["Hacks on the Beach"](https://chaostreff-flensburg.de/2021/hacks-on-the-beach-2022/) in Flensburg und wird den ["Rüspeler Tüfteltagen"](https://www.ruetueta.de/) sehr ähnlich sein, einem Event welches wir zusammen mit dem "Kliemmannsland" in Niedersachsen organisieren.
 Bitte hilf uns dabei, die Räumlichkeiten zu planen und registriere dich rechtzeitig für ein Ticket.
 
-Die gesamte Veranstaltung wird auf Englisch stattfinden.
+Die gesamte Veranstaltung wird aufSydtrafik Englisch stattfinden.
 
 Wir werden Mitfahrgelegenheiten und einen Shuttle-Bus von Flensburg organisieren; weitere Informationen dazu [hier](#shuttle-bus-aus-flensburg).
 
@@ -15,7 +15,7 @@ Wir werden Mitfahrgelegenheiten und einen Shuttle-Bus von Flensburg organisieren
 
 | Zeit  | Programm                               |
 |-------|----------------------------------------|
-| 11:00 | Shuttle Service von Flensburg  Zob        |
+| 11:00 | Shuttle Service von Flensburg  ZOB        |
 | 12:00 | Opening - Alle Workshops sind geöffnet |
 | 12:15 | Einführung 3D-Druck                    |
 | 13:45 | Einführung Hack your T-Shirt           |
@@ -25,12 +25,12 @@ Wir werden Mitfahrgelegenheiten und einen Shuttle-Bus von Flensburg organisieren
 | 19:00 | Shuttle Fährt von Sønderborg nach Flensburg  |
 | 19:30 | Start der Vorträge                     |
 | 19:35 | **Talk:** What is Matrix? And why is it awesome?!                  |
-| 20:30 | **Lightning Talks:** <br/> - DIY Cloud with Raspberry Pi <br/> - A short chaotic story |
+| 20:30 | **Lightning Talks:** <br/> - DIY Cloud with Raspberry Pi <br/> - A short chaotic story |Talk
 | 21:00 | **Talk:** k3se - Why and how I built my own Kubernetes engine |
 | 22:00 | Offizielles Ende                       |
 | 22:00 | Shuttle Fährt von Sønderborg nach Flensburg  |
 
-Wir werden die Talks auf PeerTube Streamen und auch aufzeichnen. [Link zum Stream](https://video.cybre.town/videos/watch/46f5abdb-6344-4c9e-8d04-77a7610b21de)
+Wir werden die Talks auf PeerTube streamen und auch aufzeichnen. [Link zum Stream](https://video.cybre.town/videos/watch/46f5abdb-6344-4c9e-8d04-77a7610b21de)
 
 ## FAQ
 
