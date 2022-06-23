@@ -25,7 +25,7 @@ Wir werden Mitfahrgelegenheiten und einen Shuttle-Bus von Flensburg organisieren
 | 19:00 | Shuttle Fährt von Sønderborg nach Flensburg  |
 | 19:30 | Start der Vorträge                     |
 | 19:35 | **Talk:** What is Matrix? And why is it awesome?!                  |
-| 20:30 | **Lightning Talks:** <br/> - DIY Cloud with Raspberry Pi <br/> - A short chaotic story |Talk
+| 20:30 | **Lightning Talks:** <br/> - ~~DIY Cloud with Raspberry Pi~~ <br/> - A short chaotic story |Talk
 | 21:00 | **Talk:** k3se - Why and how I built my own Kubernetes engine |
 | 22:00 | Offizielles Ende                       |
 | 22:00 | Shuttle Fährt von Sønderborg nach Flensburg  |
