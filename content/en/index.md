@@ -27,7 +27,7 @@ This event is a follow-up to our popular event ["Hacks on the Beach"](https://ch
 | 19:00 | Shuttle Service from Sønderborg to Flensburg     |
 | 19:30 | Start of Talks                    |
 | 19:35 | **Talk:** What is Matrix? And why is it awesome?!                  |
-| 20:30 | **Lightning Talks:** <br/> - ~~DIY Cloud with Raspberry Pi~~ <br/> - A short chaotic story |
+| 20:30 | **Lightning Talks:** <br/> -  ~~DIY Cloud with Raspberry Pi~~  <br/> - A short chaotic story |
 | 21:00 | **Talk:** k3se - Why and how I built my own Kubernetes engine |
 | 22:00 | Official End                          |
 | 22:00 | Shuttle Service from Sønderborg to Flensburg     |
