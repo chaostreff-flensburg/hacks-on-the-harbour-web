@@ -26,13 +26,15 @@ This event is a follow-up to our popular event ["Hacks on the Beach"](https://ch
 | 18:00 | Pizza Party                           |
 | 19:00 | Shuttle Service from Sønderborg to Flensburg     |
 | 19:30 | Start of Talks                    |
-| 19:35 | **Talk:** What is Matrix? And why is it awesome?!                  |
+| 19:35 |**Talk:** k3se - Why and how I built my own Kubernetes engine   |
 | 20:30 | **Lightning Talks:** <br/> -  ~~DIY Cloud with Raspberry Pi~~  <br/> - A short chaotic story |
-| 21:00 | **Talk:** k3se - Why and how I built my own Kubernetes engine |
+| 21:00 |  **Talk:** What is Matrix? And why is it awesome?! |
 | 22:00 | Official End                          |
 | 22:00 | Shuttle Service from Sønderborg to Flensburg     |
 
 The talks will be streamed on PeerTube: [Link zum Stream](https://video.cybre.town/videos/watch/a38418e6-a56a-40aa-b677-4dd988b7d7cf)
+
+Please note the change: The k3se talk will be before the matrix talk.
 
 ## FAQ
 
