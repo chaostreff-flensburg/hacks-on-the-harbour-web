@@ -32,7 +32,7 @@ This event is a follow-up to our popular event ["Hacks on the Beach"](https://ch
 | 22:00 | Official End                          |
 | 22:00 | Shuttle Service from Sønderborg to Flensburg     |
 
-Do you want to add a talk ranging from 5 to 45 minutes? Reach out via email to hoth@chaostreff-flensburg.de!
+The talks will be streamed on PeerTube: [Link zum Stream](https://video.cybre.town/videos/watch/a38418e6-a56a-40aa-b677-4dd988b7d7cf)
 
 ## FAQ
 

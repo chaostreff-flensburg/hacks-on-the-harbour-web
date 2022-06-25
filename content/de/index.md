@@ -30,7 +30,7 @@ Wir werden Mitfahrgelegenheiten und einen Shuttle-Bus von Flensburg organisieren
 | 22:00 | Offizielles Ende                       |
 | 22:00 | Shuttle Fährt von Sønderborg nach Flensburg  |
 
-Wir werden die Talks auf PeerTube streamen und auch aufzeichnen. [Link zum Stream](https://video.cybre.town/videos/watch/46f5abdb-6344-4c9e-8d04-77a7610b21de)
+Wir werden die Talks auf PeerTube streamen und auch aufzeichnen. [Link zum Stream](https://video.cybre.town/videos/watch/a38418e6-a56a-40aa-b677-4dd988b7d7cf)
 
 ## FAQ
 
