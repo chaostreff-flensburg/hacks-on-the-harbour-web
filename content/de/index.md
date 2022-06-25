@@ -24,13 +24,15 @@ Wir werden Mitfahrgelegenheiten und einen Shuttle-Bus von Flensburg organisieren
 | 18:00 | Pizza-Party                            |
 | 19:00 | Shuttle Fährt von Sønderborg nach Flensburg  |
 | 19:30 | Start der Vorträge                     |
-| 19:35 | **Talk:** What is Matrix? And why is it awesome?!                  |
+| 19:35 | **Talk:** k3se - Why and how I built my own Kubernetes engine  |
 | 20:30 | **Lightning Talks:** <br/> - DIY Cloud with Raspberry Pi <br/> - A short chaotic story |Talk
-| 21:00 | **Talk:** k3se - Why and how I built my own Kubernetes engine |
+| 21:00 | **Talk:** What is Matrix? And why is it awesome?! |
 | 22:00 | Offizielles Ende                       |
 | 22:00 | Shuttle Fährt von Sønderborg nach Flensburg  |
 
 Wir werden die Talks auf PeerTube streamen und auch aufzeichnen. [Link zum Stream](https://video.cybre.town/videos/watch/46f5abdb-6344-4c9e-8d04-77a7610b21de)
+
+Kurzfristige Änderung: der k3se tauscht den Slot dem Matrix Vortrag.
 
 ## FAQ
 
@@ -83,7 +85,7 @@ Die Fahrt von Flensburg nach Sønderborg dauert rund 45 Minuten. Von Hamburg sol
 Es gibt keine direkte öffentliche Fähre nach Sønderborg. Wenn du dein eigenes Boot hast, kanst du es diekt am Hafen anlegen. Von Flensburg aus sind es mit dem Fahrrad 40 km.
 
 ### Was sind die covid-19 Regeln?
-Wir bitten alle teilnehmenden darum, vorher einen Negativen Corona Test zu machen und nicht mit covid-19 Symptomen die Veranstaltung zu besuchen. Ein großteil der Veranstaltung findet in einem großen Veranstaltungssaal statt. Es gibt keine Maskenpflicht, freiwilliges Maskentragen ist natürlich möglich.
+Wir bitten alle teilnehmenden darum, vorher einen Negativen Corona Test zu machen und nicht mit covid-19 Symptomen die Veranstaltung zu besuchen. Ein Großteil der Veranstaltung findet in einem großen Veranstaltungssaal statt. Es gibt keine Maskenpflicht, freiwilliges Maskentragen ist natürlich möglich.
 
 ### Braucht ihr noch Freiwillige?
 
