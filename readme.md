@@ -1,11 +1,9 @@
-# 
+# Hacks on the Habour Website
 
 ![build](https://github.com/chaostreff-flensburg/hacks-on-the-harbour-web/actions/workflows/build.yml/badge.svg) 
 ![deploy-ghpages](https://github.com/chaostreff-flensburg/hacks-on-the-harbour-web/actions/workflows/deploy-ghpages.yml/badge.svg) 
 
-<!-- ## Development
-
-Pushing to master is restricted. Please work in a `feature/` or `bug/` branch and create a pull request. Merging requires the CI passing, an approved review and the branch being up to date. -->
+Requirement: Node
 
 ## Build Setup
 
@@ -22,7 +20,7 @@ $ npm run build
 
 ## Deploy a new version
 
-To deploy a new version of the site push your changes to the ```deploy``` branch via a pull request. The ```deploy-ghpages``` GitHub Action will then build and release on GH-Pages.
+To deploy a new version of the site push your changes to the ```main``` branch.
 
 ## Frameworks
 
@@ -30,4 +28,4 @@ For detailed explanation on how things work, checkout the [Vuepress docs](https:
 
 ---
 
-Made with ♡ at [Chaostreff Flensburg](https://twitter.com/chaos_fl) | [CI & CD](https://drone.ctfl.space/chaostreff-flensburg/ruetueta-web) | [License](./LICENSE)
+Made with ♡ at [Chaostreff Flensburg](https://twitter.com/chaos_fl) | [License](./LICENSE)
