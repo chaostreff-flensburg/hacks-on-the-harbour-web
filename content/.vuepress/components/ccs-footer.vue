@@ -1,7 +1,7 @@
 <template>
   <footer>
     <section>
-      <p>Eine Veranstaltung des <a href="https://chaostreff-flensburg.de/">Chaostreff Flensburg e.V.</a></p>
+      <p>Eine Projekt des <a href="https://chaostreff-flensburg.de/">Chaostreff Flensburg e.V.</a></p>
       <a href="https://chaostreff-flensburg.de/impressum/">Impressum</a> &
       <a href="https://chaostreff-flensburg.de/datenschutz/">Datenschutz</a>
     </section>

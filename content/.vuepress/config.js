@@ -1,10 +1,5 @@
 module.exports = {
   locales: {
-    "/en/": {
-      lang: "en-EN",  // this will be set as the lang attribute on <html>
-      title: "Hacks On The Harbour",
-      description: "Hacks on the Harbour is a maker & hacker festival - right next to Sønderborg harbour."
-    },
     "/de/": {
       lang: "de-DE",
       title: "Hacks On The Harbour",
