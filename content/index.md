@@ -29,3 +29,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Newsletter
 
 Mit dem Newsletter bleibst du immer top informiert! [Jetzt Anmelden](https://mailtrain.chaostreff-flensburg.de/subscription/SyNA43JZo)
+
+## Stats
+
+```chart
+{
+  "type": "doughnut",
+  "data": {
+    "datasets": [{
+      "data": [6000],
+      "backgroundColor": [
+        "rgba(46, 204, 113)"
+      ]
+    }],
+    "labels": ["Nicht vergebende Gelder"]
+  }
+}
+```

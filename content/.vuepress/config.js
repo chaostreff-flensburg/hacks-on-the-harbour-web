@@ -25,5 +25,10 @@ module.exports = {
       md.set({ breaks: true });
     }
   },
-  dest: "./dist"
+  dest: "./dist",
+  plugins: [
+    [
+      'vuepress-plugin-chart'
+    ]
+  ]
 };

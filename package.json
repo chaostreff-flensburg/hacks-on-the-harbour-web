@@ -11,7 +11,9 @@
     "vuepress": "^1.9.7"
   },
   "dependencies": {
+    "json-fn": "^1.1.1",
     "p5": "^0.7.3",
-    "vue-no-ssr": "^1.1.1"
+    "vue-no-ssr": "^1.1.1",
+    "vuepress-plugin-chart": "^0.3.0"
   }
 }
