@@ -1,14 +1,26 @@
-## Chaotischer Catalysator Stipendien - 2022.Winter
-Mit dem Chaotischen Catalysator Stipendien #CCS werden fürs Wintersemester 2022 **vier Stipendien** für Masterarbeiten vergeben. Jedes Stipendum wird in Höhe von insgesamt **1.500€ gefördert**
-Wir suchen dabei nach Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt nach den Grundsätzen der [Hacker\*innen-Ethik](#hacker-innen-ethik) verbesserbar ist.
+# Chaotischer Catalysator Stipendien - 2022.Winter
+Mit dem Chaotischen Catalysator Stipendien #CCS werden fürs Wintersemester 2022 **vier Stipendien** für Masterarbeiten vergeben. Jedes Stipendum wird in Höhe von insgesamt **1.500€ gefördert**.
+
+### Wir suchen dabei nach Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt nach den Grundsätzen der [Hacker\*innen-Ethik](#link-faq) verbesserbar ist.
 
 ## Bewerben
-Um dich auf ein Stipendium zu bewerben musst du folgendes Formular ausfüllen. Bitte lies dir vorher die [Förderbedingungen](#stipendiumsbedingungen) durch. 
+Um dich auf ein Stipendium zu bewerben musst du folgendes Formular ausfüllen. Bitte lies dir vorher die [Förderbedingungen](#link-stipendiumsbedingungen) durch. 
 
 Nach dem Eingang deiner Bewerbung wird diese dem Beirat zur Verfügung gestellt. Wir versuchen dir möglichst schnell eine Zusage oder Absage zu erteilen. Bei letzterer kannst du nach Wunsch eine kurze Begründung bekommen. Aufgrund der ehrenamtlichen Natur des Beirats können wir keine ausführlichen Begründungen liefern. 
 
 Formular Felder (kommen nachher aus Zammad)
-TODO: Formular
+* Name
+* Hochschule/Universität
+* Checkbox: Ich habe die Förderbedingungen gelesen und willige ein
+* Titel der Masterarbeit
+* Aufgabenstellung der Masterarbeit
+* Begründung warum diese ins Thema passt
+* Institut/Professur (optional)
+* (geplantes) Startdatum
+
+* E-Mail-Adresse
+* Pronomen (optional)
+* Telefonnummer (optional - bitte leerlassen wenn nur per E-Mail kommuniziert werden soll)
 
 ## FAQ
 ### Über den Beirat
@@ -28,6 +40,10 @@ Der Beirat ist jederzeit unter ccs@chaostreff-flensburg.de zu erreichen, alle Fr
     * Der Bearbeitungsbeginn liegt zwischen Oktober 2022 und März 2023
     * Du kannst Themen einreichen, die noch nicht offiziell bei deiner Universität angemeldet werden, als auch solche, die bereits bestätigt wurden.
     * Wenn du Hilfe bei der Ausformulierung einer Idee möchtest, wende dich gern an uns unter ccs@chaostreff-flensburg.de
+* Du schreibst über ein Thema, das sich die Informationstechnologien dieser Welt genauer anschaut, ihren Einfluss auf die Gesellschaft untersucht und/oder Ideen entwickelt, wie die Welt nach den Grundsätzen der [Hacker\*innen-Ethik](#link-faq) verbesserbar ist.
+    * Die Fachrichtung ist uns egal, wir freuen uns auf Einreichungen aus vielen verschiedenen Wissenschaftsbereichen
+    * Uns interessieren theoretische Überlegungen oder Konzepte, spezifische Implementierungen, soziologische Erhebungen, künstlerische Auseinandersetzungen und und und
+    * TODO Themenvorschläge, Impulsfragen?
 * Du schreibst deine Masterarbeit an einer deutschen Universität oder Hochschule und bist in Deutschland steuerpflichtig
 	* Diese Begrenzung ist für den Anfang bewusst gewählt.
 * Wir nehmen keinen Einfluss auf den Inhalt der Arbeit
