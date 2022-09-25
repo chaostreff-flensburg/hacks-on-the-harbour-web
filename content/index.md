@@ -40,7 +40,7 @@ Der Beirat ist jederzeit unter ccs@chaostreff-flensburg.de zu erreichen, alle Fr
     * Der Bearbeitungsbeginn liegt zwischen Oktober 2022 und März 2023
     * Du kannst Themen einreichen, die noch nicht offiziell bei deiner Universität angemeldet werden, als auch solche, die bereits bestätigt wurden.
     * Wenn du Hilfe bei der Ausformulierung einer Idee möchtest, wende dich gern an uns unter ccs@chaostreff-flensburg.de
-* Du schreibst über ein Thema, das sich die Informationstechnologien dieser Welt genauer anschaut, ihren Einfluss auf die Gesellschaft untersucht und/oder Ideen entwickelt, wie die Welt nach den Grundsätzen der [Hacker\*innen-Ethik](#link-faq) verbesserbar ist.
+* Du schreibst über ein Thema, das sich die Informationstechnologien dieser Welt genauer anschaut, ihren Einfluss auf die Gesellschaft untersucht und/oder Ideen entwickelt, wie die Welt nach den Grundsätzen der [Hacker\*innen-Ethik](#hacker-innen-ethik) verbesserbar ist.
     * Die Fachrichtung ist uns egal, wir freuen uns auf Einreichungen aus vielen verschiedenen Wissenschaftsbereichen
     * Uns interessieren theoretische Überlegungen oder Konzepte, spezifische Implementierungen, soziologische Erhebungen, künstlerische Auseinandersetzungen und und und
     * TODO Themenvorschläge, Impulsfragen?
