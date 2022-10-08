@@ -1,6 +1,8 @@
 # Chaotischer Catalysator Stipendien - 2022.Winter
 Mit dem Chaotischen Catalysator Stipendien #CCS werden fürs Wintersemester 2022 **vier Stipendien** für Masterarbeiten vergeben. Jedes Stipendum wird in Höhe von insgesamt **1.500€ gefördert**.
 
+<HomeContent />
+
 ### Wir suchen dabei nach Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt nach den Grundsätzen der [Hacker\*innen-Ethik](#hacker-innen-ethik) verbesserbar ist.
 
 ## Bewerben

@@ -1,10 +1,10 @@
 <template>
-  <section>
-      <nav>
-        <a href="#chaotischer-catalysator-stipendien-2022-winter">CCS</a>
-        <a href="#uber-den-beirat">Beirat</a>
-        <a href="#bewerben">Bewerben</a>
-        <a href="#faq">F.A.Q.</a>
+  <section class="shadow">
+      <nav class="navbar">
+        <router-link to="/#chaotischer-catalysator-stipendien-2022-winter">CCS</router-link>
+        <router-link to="/#uber-den-beirat">Beirat</router-link>
+        <router-link to="/#bewerben">Bewerben</router-link>
+        <router-link to="/#faq">F.A.Q.</router-link>
       </nav>
   </section>
 </template>

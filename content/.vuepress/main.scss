@@ -1,0 +1,29 @@
+$dark-body-bg: #101728;
+$primary: #9340ff;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
+
+
+@import "bootstrap/scss/bootstrap";
+@import "bootstrap-darkmode/scss/darktheme";
+
+html, body {
+  font-family: "Roboto", serif;
+  line-height: 1.8em;
+}
+.container {
+  max-width: 1000px;
+}
+.nav {
+  background-color: $dark-body-bg;
+}
+.layout {
+  background-color: #1e213a;
+}
