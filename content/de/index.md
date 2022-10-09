@@ -8,6 +8,20 @@ Das Hacks on the Harbour ist ein Maker & Hacker Festival - direkt am Hafen von S
 
 Du willst auf dem laufenden bleiben? Dann abbonier doch unseren [Newsletter](https://mailtrain.chaostreff-flensburg.de/subscription/SyqP1Sy5c) (Es reicht, wenn du nur deine E-Mail Adresse angibst)
 
+<corevideoplayer
+  src="/hoth-drohne.webm"
+  cover="/play-button-svgrepo-com.svg"
+  preload="metadata"
+  lang="en"
+  title="Sønderborg Hafen, Drohnen Video"
+  controls="auto"
+  :autoplay=false
+  :muted=true
+  :loop=false
+  alt="Drohne Video in dem das Multikulturhaus in Sønderborg zu sehen ist.">
+</corevideoplayer>
+🎥 Video von [faab_e](https://twitter.com/faab_e)
+
 ## Programm
 
 :arrow_right: Wird zeitnah ergänzt.

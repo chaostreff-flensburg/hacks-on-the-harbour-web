@@ -30,5 +30,14 @@ module.exports = {
       md.set({ breaks: true });
     }
   },
+  plugins: [
+    [
+      'vuepress-plugin-core-video-player',
+      {
+        lang: 'en',
+      }
+    ]
+  ],
+  lang: 'en',
   dest: "./dist"
 };
