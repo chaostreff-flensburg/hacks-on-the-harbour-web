@@ -1,5 +1,25 @@
 <template>
 <div>
+  <div class="row headerBackground">
+    <div class="col">
+      <h1 class="headLine">
+        Winter <br>
+        2022
+      </h1>
+      <p>
+        Chaotischer Catalysator Stipendien - 2022.Winter
+      </p>
+    </div>
+    <div class="col-auto d-flex flex-column justify-content-end">
+      <a href="" class="btn btn-outline-light">Newsletter abonieren</a>
+      <div class="my-2 socialIcons">
+        <a class="btn bi-instagram" />
+        <a class="btn bi-facebook" />
+        <a class="btn bi-twitter" />
+        <a class="btn bi-envelope" />
+      </div>
+    </div>
+  </div>
   <h2 class="text-center">
     <span class="text-primary">Chaotischer Catalysator</span><br>
     Stipendien - 2022.Winter
@@ -24,12 +44,12 @@
       </p>
     </div>
     <div class="col">
-      <img src="../../assets/img2.png" alt="">
+      <img src="../../assets/img2.png" class="flow" alt="">
     </div>
   </div>
   <div class="row">
     <div class="col">
-      <img src="../../assets/img3.png" alt="">
+      <img src="../../assets/img3.png" class="flow" alt="">
     </div>
     <div class="col-md-7">
       <h2 class="text-primary">
@@ -63,7 +83,7 @@
       </p>
     </div>
     <div class="col">
-      <img src="../../assets/img2.png" alt="">
+      <img src="../../assets/img2.png" class="flow" alt="">
     </div>
   </div>
   <h2 class="text-center">
@@ -82,7 +102,7 @@
   <h2 class="text-primary text-center">Kontakt Formular</h2>
   <div class="row">
     <div class="col">
-      <img src="../../assets/img4.png" alt="">
+      <img src="../../assets/img4.png" class="flow" alt="">
     </div>
     <div class="col-md-7">
       <h2 class="text-primary">
@@ -137,12 +157,12 @@
       </ul>
     </div>
     <div class="col">
-      <img src="../../assets/img5.png" alt="">
+      <img src="../../assets/img5.png" class="flow" alt="">
     </div>
   </div>
   <div class="row">
     <div class="col">
-      <img src="../../assets/img4.png" alt="">
+      <img src="../../assets/img4.png" class="flow" alt="">
     </div>
     <div class="col-md-7">
       <h2 class="text-primary">
@@ -190,6 +210,8 @@ export default {
 <style scoped lang="scss">
 h2 {
   margin: 2rem 0;
+  font-size: 2.5rem;
+  font-weight: bold;
 }
 .row {
   margin: 4rem 0;
@@ -197,7 +219,7 @@ h2 {
 .col{
   padding: 0 2rem;
 }
-img {
+img.flow {
   border-radius: 3rem;
   aspect-ratio: 1;
   object-fit: cover;
@@ -206,5 +228,21 @@ img {
 }
 p, ul {
   font-size: 1.2rem;
+}
+.headerBackground {
+  background-image: url("../../assets/img-header.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 4rem 2rem;
+  opacity: .8;
+  .headLine {
+    font-size: 5rem;
+  }
+  .socialIcons {
+    a {
+      padding: 0.5rem;
+      font-size: 1.5rem;
+    }
+  }
 }
 </style>

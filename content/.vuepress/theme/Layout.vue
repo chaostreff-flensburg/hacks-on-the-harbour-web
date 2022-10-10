@@ -17,6 +17,7 @@
 <script>
 import "../main.scss";
 import "../fonts.css";
+import "bootstrap-icons/font/bootstrap-icons.scss";
 
 export default {
 }
