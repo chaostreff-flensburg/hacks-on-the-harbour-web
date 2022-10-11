@@ -1,25 +1,6 @@
 <HomeContent />
 
-### Wir suchen dabei nach Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt nach den Grundsätzen der [Hacker\*innen-Ethik](#hacker-innen-ethik) verbesserbar ist.
-
-## Bewerben
-Um dich auf ein Stipendium zu bewerben musst du folgendes Formular ausfüllen. Bitte lies dir vorher die [Förderbedingungen](#stipendiumsbedingungen) durch. 
-
-Nach dem Eingang deiner Bewerbung wird diese dem Beirat zur Verfügung gestellt. Wir versuchen dir möglichst schnell eine Zusage oder Absage zu erteilen. Bei letzterer kannst du nach Wunsch eine kurze Begründung bekommen. Aufgrund der ehrenamtlichen Natur des Beirats können wir keine ausführlichen Begründungen liefern. 
-
-Formular Felder (kommen nachher aus Zammad)
-* Name
-* Hochschule/Universität
-* Checkbox: Ich habe die Förderbedingungen gelesen und willige ein
-* Titel der Masterarbeit
-* Aufgabenstellung der Masterarbeit
-* Begründung warum diese ins Thema passt
-* Institut/Professur (optional)
-* (geplantes) Startdatum
-
-* E-Mail-Adresse
-* Pronomen (optional)
-* Telefonnummer (optional - bitte leerlassen wenn nur per E-Mail kommuniziert werden soll)
+Wir suchen dabei nach Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt nach den Grundsätzen der [Hacker\*innen-Ethik](#hacker-innen-ethik) verbesserbar ist.
 
 ## FAQ
 ### Über den Beirat

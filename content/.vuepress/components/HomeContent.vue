@@ -100,6 +100,11 @@
     ausführlichen Begründungen liefern.
   </p>
   <h2 class="text-primary text-center">Kontakt Formular</h2>
+  <p class="section">
+    Um dich auf ein Stipendium zu bewerben musst du folgendes Formular ausfüllen.
+    Bitte lies dir vorher die <router-link to="/#stipendiumsbedingungen">Förderbedingungen</router-link> durch.
+    Nach dem Eingang deiner Bewerbung wird diese dem Beirat zur Verfügung gestellt. Wir versuchen dir möglichst schnell eine Zusage oder Absage zu erteilen. Bei letzterer kannst du nach Wunsch eine kurze Begründung bekommen. Aufgrund der ehrenamtlichen Natur des Beirats können wir keine ausführlichen Begründungen liefern.
+  </p>
   <form class="section">
     <div class="row my-2">
         <div class="form-group col">
@@ -137,12 +142,17 @@
         <textarea type="text" class="form-control" id="surname" placeholder="" />
       </div>
     </div>
-    <div class="row">
+    <div class="row my-2">
       <div class="col">
         <input type="checkbox" id="termsOfUse" class="">
         <label for="termsOfUse">
           Ich habe die Förderbedingungen gelesen und willige ein
         </label>
+      </div>
+    </div>
+    <div class="row my-2">
+      <div class="col">
+        <button class="btn btn-primary">Abschicken</button>
       </div>
     </div>
   </form>
