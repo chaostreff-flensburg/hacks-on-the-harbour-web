@@ -33,3 +33,7 @@ html, body {
   height: 20rem;
   object-fit: cover;
 }
+
+[data-theme="dark"] .btn.btn-outline-light:hover {
+  color: #000 !important;
+}
