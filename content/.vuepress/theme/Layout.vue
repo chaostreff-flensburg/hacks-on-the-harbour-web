@@ -3,7 +3,7 @@
     <section class="layout">
     <main class="container">
       <div class="card border-0 shadow rounded">
-        <div class="headerBackground d-flex">
+        <div class="headerBackground row">
           <div class="col">
             <h1 class="headLine">
               Winter <br>
@@ -50,6 +50,7 @@ export default {
   background-size: cover;
   padding: 4rem 2rem;
   opacity: .8;
+  margin: 0;
   .headLine {
     font-size: 5rem;
     font-weight: 900;
