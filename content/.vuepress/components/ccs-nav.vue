@@ -1,7 +1,7 @@
 <template>
   <section class="shadow">
       <nav class="navbar">
-        <router-link to="/#chaotischer-catalysator-stipendien-2022-winter">CCS</router-link>
+        <router-link to="/#headline">#CCS</router-link>
         <router-link to="/#uber-den-beirat">Beirat</router-link>
         <router-link to="/#bewerben">Bewerben</router-link>
         <router-link to="/#faq">F.A.Q.</router-link>
@@ -46,11 +46,10 @@ nav {
   }
 }
 a {
-  padding: 2px 4px;
-
+  padding: 6px 15px;
   color: var(--foreground);
-  font-size: 18px;
-  font-weight: 400;
+  font-size: 26px;
+  font-weight: 700;
   text-align: center;
   text-decoration: none;
 }

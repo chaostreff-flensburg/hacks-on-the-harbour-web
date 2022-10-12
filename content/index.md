@@ -1,7 +1,5 @@
 <HomeContent />
 
-Wir suchen dabei nach Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt nach den Grundsätzen der [Hacker\*innen-Ethik](#hacker-innen-ethik) verbesserbar ist.
-
 ## FAQ
 ### Über den Beirat
 Um eine möglichst diverse Förderung von Projekten zu ermöglichen, werden die Stipendien nach der Empfehlung des CCS-Beirats vergeben. Der Beirat hat insgesamt 5/7 Mitglieder die ihren Schwerpunkt in verschiedenen Bereichen haben. 

@@ -14,13 +14,15 @@
             </p>
           </div>
           <div class="col-auto d-flex flex-column justify-content-end">
-            <a href="" class="btn btn-outline-light">Newsletter abonieren</a>
+            <a href="https://mailtrain.chaostreff-flensburg.de/subscription/SyNA43JZo" target="blank" class="btn btn-outline-light">Newsletter abonieren</a>
+            <!--
             <div class="my-2 socialIcons">
               <a class="btn bi-instagram" />
               <a class="btn bi-facebook" />
               <a class="btn bi-twitter" />
               <a class="btn bi-envelope" />
             </div>
+            -->
           </div>
         </div>
         <ccs-nav class="nav"/>
@@ -62,5 +64,8 @@ export default {
       font-size: 1.5rem;
     }
   }
+}
+p,ul {
+  font-size: 1.2rem;
 }
 </style>
