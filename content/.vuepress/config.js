@@ -1,9 +1,9 @@
 module.exports = {
   locales: {
-    "/de/": {
+    "/": {
       lang: "de-DE",
-      title: "Hacks On The Harbour",
-      description: "Das Hacks on the Harbour ist ein Maker & Hacker Festival - direkt am Hafen von Sønderborg."
+      title: "Chaotischen Catalysator Stipendien #CCS",
+      description: "Mit dem “Chaotischen Catalysator Stipendien #CCS” werden fürs Wintersemester 2022 vier Stipendien für Masterarbeiten vergeben. Jedes Stipendium wird in Höhe von insgesamt 1.500€ gefördert."
     }
   },
   head: [

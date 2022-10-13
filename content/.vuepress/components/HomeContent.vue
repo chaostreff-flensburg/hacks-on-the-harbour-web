@@ -63,8 +63,8 @@
       <div class="col-md-7">
         <h2 class="text-primary">Wie kann ich mich bewerben?</h2>
         <p>
-          Um dich auf ein Stipendium zu bewerben, musst du folgendes Formular
-          ausfüllen. Bitte lies dir vorher die Förderbedingungen durch.
+          Um dich auf ein Stipendium zu bewerben, musst du das <router-link to="/#bewerben">Formular
+          ausfüllen</router-link>. Bitte lies dir vorher die <router-link to="/#stipendiumsbedingungen">Förderbedingungen</router-link> durch.
         </p>
       </div>
       <div class="col text-center image-container">
@@ -97,7 +97,7 @@
     ausführlichen Begründungen liefern.
   </p>
   -->
-    <h2 class="text-center">
+    <h2 class="text-center" id="bewerben">
       <span class="text-primary"> Chaotischer Catalysator Stipendien - </span
       ><br />
       Bewirb dich jetzt für das Jahr 2022
@@ -117,7 +117,6 @@
       method="POST"
       action="http://localhost:3000"
       class="section"
-      id="bewerben"
     >
       <div class="row my-2">
         <div class="form-group col">
@@ -228,7 +227,7 @@
       <div class="row my-2">
         <div class="form-group col">
           <label for="thesisTask"
-            >Wie ist die Aufgabenstellung deiner Arbeit? max. 1000
+            >Wie ist die Aufgabenstellung deiner Arbeit? (max. 1000)
             Zeichen</label
           >
           <textarea
@@ -248,7 +247,7 @@ testAufgabenstellung</textarea
       <div class="row my-2">
         <div class="form-group col">
           <label for="reasonApplicationThesis"
-            >Warum passt deine Arbeit ins Thema? max. 1000 Zeichen</label
+            >Warum passt deine Arbeit ins Thema? (max. 1000 Zeichen)</label
           >
           <textarea
             class="form-control"
@@ -265,7 +264,7 @@ testWarum</textarea
       <div class="row my-2">
         <div class="form-group col">
           <label for="reasonApplicationPerson"
-            >Erzähl uns etwas über dich? max. 1000 Zeichen</label
+            >Erzähl uns etwas über dich! (max. 1000 Zeichen)</label
           >
           <textarea
             class="form-control"
@@ -313,6 +312,9 @@ testErzähl</textarea
       <button type="submit" class="btn btn-success">Abschicken</button>
     </form>
     <div class="row section">
+      <h2 class="text-primary text-center">
+          Impulsfragen, an denen du dich bei der Themenfindung orientieren kannst (aber nicht musst!)
+      </h2>
       <div class="col text-center image-container">
         <div>
           <img
@@ -327,9 +329,6 @@ testErzähl</textarea
         </div>
       </div>
       <div class="col-md-7">
-        <h2 class="text-primary">
-          Musterfragen, die dir beim Bewerbungsprozess helfen:
-        </h2>
         <ul>
           <li>Welchen Mehrwert bringt Open Data für xyz?</li>
           <li>
@@ -337,7 +336,7 @@ testErzähl</textarea
             Überwachungsmaßnahmen und hängt das mit xyz zusammen?
           </li>
           <li>
-            entwickeln sich Unternehmen, die auf Open Data setzen, besser als
+            Entwickeln sich Unternehmen, die auf Open Data setzen, besser als
             andere?
           </li>
           <li>
@@ -349,7 +348,6 @@ testErzähl</textarea
     </div>
     <div class="row section">
       <div class="col-md-7">
-        <h2 class="text-primary">Sozialwissenschaften:</h2>
         <ul>
           <li>
             Inwieweit wird durch Datenschutz eine künstlerische Freiheit
@@ -398,7 +396,6 @@ testErzähl</textarea
         </div>
       </div>
       <div class="col-md-7">
-        <h2 class="text-primary">Wirtschaft und Politik:</h2>
         <ul>
           <li>
             Welchen Einfluss hat die Informationstechnologie auf das
