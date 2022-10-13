@@ -21,7 +21,6 @@ Der Beirat ist jederzeit unter ccs@chaostreff-flensburg.de zu erreichen, alle Fr
 * Du schreibst über ein Thema, das sich die Informationstechnologien dieser Welt genauer anschaut, ihren Einfluss auf die Gesellschaft untersucht und/oder Ideen entwickelt, wie die Welt nach den Grundsätzen der [Hacker\*innen-Ethik](#hacker-innen-ethik) verbesserbar ist.
     * Die Fachrichtung ist uns egal, wir freuen uns auf Einreichungen aus vielen verschiedenen Wissenschaftsbereichen
     * Uns interessieren theoretische Überlegungen oder Konzepte, spezifische Implementierungen, soziologische Erhebungen, künstlerische Auseinandersetzungen und und und
-    * TODO Themenvorschläge, Impulsfragen?
 * Du schreibst deine Masterarbeit an einer deutschen Universität oder Hochschule und bist in Deutschland steuerpflichtig
 	* Diese Begrenzung ist für den Anfang bewusst gewählt.
 * Wir nehmen keinen Einfluss auf den Inhalt der Arbeit
