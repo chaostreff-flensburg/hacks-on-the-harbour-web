@@ -85,57 +85,7 @@
     Bitte lies dir vorher die <router-link to="/#stipendiumsbedingungen">Förderbedingungen</router-link> durch.
     Nach dem Eingang deiner Bewerbung wird diese dem Beirat zur Verfügung gestellt. Wir versuchen dir möglichst schnell eine Zusage oder Absage zu erteilen. Bei letzterer kannst du nach Wunsch eine kurze Begründung bekommen. Aufgrund der ehrenamtlichen Natur des Beirats können wir keine ausführlichen Begründungen liefern.
   </p>
-  <form class="section">
-    <div class="row my-2">
-        <div class="form-group col">
-          <label for="name">Vorname</label>
-          <input type="text" class="form-control" id="name" placeholder="">
-        </div>
-        <div class="form-group col">
-          <label for="surname">Nachname</label>
-          <input type="text" class="form-control" id="surname" placeholder="">
-        </div>
-    </div>
-    <div class="row my-2">
-      <div class="form-group col">
-        <label for="name">Name der Hochschule</label>
-        <input type="text" class="form-control" id="name" placeholder="">
-      </div>
-      <div class="form-group col">
-        <label for="email">E-Mail-Adresse</label>
-        <input type="text" class="form-control" id="email" placeholder="">
-      </div>
-    </div>
-    <div class="row my-2">
-      <div class="form-group col">
-        <label for="startDate">Startdatum</label>
-        <input type="date" class="form-control" id="startDate" placeholder="yyyy-mm-dd" min="2022-01-01" max="2030-01-01">
-      </div>
-      <div class="form-group col">
-        <label for="email">E-Mail-Adresse</label>
-        <input type="text" class="form-control" id="email" placeholder="">
-      </div>
-    </div>
-    <div class="row my-2">
-      <div class="form-group col">
-        <label for="surname">Bewerbung / Beruendung der Themenwahl</label>
-        <textarea type="text" class="form-control" id="surname" placeholder="" />
-      </div>
-    </div>
-    <div class="row my-2">
-      <div class="col">
-        <input type="checkbox" id="termsOfUse" class="">
-        <label for="termsOfUse">
-          Ich habe die Förderbedingungen gelesen und willige ein
-        </label>
-      </div>
-    </div>
-    <div class="row my-2">
-      <div class="col">
-        <button class="btn btn-primary">Abschicken</button>
-      </div>
-    </div>
-  </form>
+  <CCSForm class="section" />
   <div class="row section">
     <div class="col">
       <img src="../../assets/img4.png" class="flow" alt="">
@@ -239,7 +189,9 @@
 
 <script>
 export default {
-  name: "HomeContent"
+  name: "HomeContent",
+  components: {}
+
 }
 </script>
 
