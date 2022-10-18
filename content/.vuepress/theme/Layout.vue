@@ -26,7 +26,7 @@
           </div>
         </div>
         <ccs-nav class="nav"/>
-        <div class="card-body">
+        <div class="card-body content">
           <Content class="p-md-4" />
         </div>
       </div>
@@ -67,5 +67,16 @@ export default {
 }
 p,ul {
   font-size: 1.2rem;
+}
+.content {
+  a{
+    color: #BF8FFF !important;
+    &:hover{
+      color:  #f1e6ff !important;
+    }
+  }
+  p{
+    margin-bottom: 30px;
+  }
 }
 </style>

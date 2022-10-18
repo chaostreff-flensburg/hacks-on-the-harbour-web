@@ -98,7 +98,7 @@
   </p>
 -->
 
-    <h2 class="text-primary text-center">Kontakt Formular</h2>
+    <h2 class="text-primary text-center" id="bewerben">Jetzt Bewerben</h2>
     <p class="section">
       Um dich auf ein Stipendium zu bewerben musst du folgendes Formular ausfüllen.
       Bitte lies dir vorher die <router-link to="/#stipendiumsbedingungen">Förderbedingungen</router-link> durch.

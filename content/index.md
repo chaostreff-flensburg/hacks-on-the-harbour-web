@@ -63,6 +63,9 @@ Wir starten mit dem Wintersemester 2022/23. Das gesamte Projekt ist für uns ein
 Eine Masterarbeit ist eine Abschlussarbeit eines Masterstudienganges nach Vorgaben der jeweiligen Prüfungsordnung.
 Auch Förderung von Diplomarbeiten als Abschlussarbeiten eines Diplomstudienganges sind möglich. 
 
+### Wie lange kann ich mich bewerben?
+Für die Bewerbung auf ein Stipendium gibt es fürs Wintersemester 2022 keine zeitliche Begrenzung. Sobald alle Gelder vergeben sind, wird es keine Möglichkeit mehr geben, sich zu bewerben. Wie viele Gelder schon vergeben sind, kannst du ganz unter [stats](#stats) sehen.
+
 ### Ich bin Professor\*in, Teil eines Institut, Wissenschaftler\*in
 Schön dass du hier bist! Wir suchen immer spannende Kontakte. Am besten schreibst du eine kurze E-Mail an ccs@chaostreff-flensburg.de und wir starten ins Gespräch. 
 Erzähle gern deinen Studierenden von diesem Stipendienprogramm und erarbeite mit ihnen gemeinsam interessante Themengebiete für eine mögliche Abschlussarbeit, die sie dann bei uns einreichen können.

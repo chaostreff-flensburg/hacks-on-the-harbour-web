@@ -1,5 +1,6 @@
 $dark-body-bg: #101728;
 $primary: #9340ff;
+$link-color: #CFCFCF;
 
 $grid-breakpoints: (
   xs: 0,
@@ -36,4 +37,7 @@ html, body {
 
 [data-theme="dark"] .btn.btn-outline-light:hover {
   color: #000 !important;
+}
+a{
+  color: #CFCFCF
 }
