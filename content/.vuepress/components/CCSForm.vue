@@ -1,21 +1,21 @@
 <template>
   <form method="POST" action="/api/form" class="section">
     <div class="row my-2">
-      <div class="form-group col">
+      <div class="form-group col-sm-12 col-md-6">
         <label for="name">Name</label>
         <input type="text" class="form-control" id="name" name="name" placeholder="" required>
       </div>
-      <div class="form-group col">
+      <div class="form-group col-sm-12 col-md-6">
         <label for="pronoun">Pronomen (optional)</label>
         <input type="text" class="form-control" id="pronoun" name="pronoun" placeholder="">
       </div>
     </div>
     <div class="row my-2">
-      <div class="form-group col">
+      <div class="form-group col-sm-12 col-md-6">
         <label for="email">E-Mail-Adresse</label>
         <input type="email" class="form-control" id="email" name="email" placeholder="" required>
       </div>
-      <div class="form-group col">
+      <div class="form-group col-sm-12 col-md-6">
         <label for="phonenumber">Telefonnummer (optional)</label>
         <input type="tel" class="form-control" id="phonenumber" name="phonenumber" placeholder="">
         <span>bitte leerlassen wenn nur per E-Mail kommuniziert werden soll</span>
