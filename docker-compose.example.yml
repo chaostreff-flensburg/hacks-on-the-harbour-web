@@ -19,11 +19,9 @@ services:
     environment:
       - NODE_ENV=production
       - PORT=3000
+      - AUTH_USERNAME=
+      - AUTH_PASSWORD=
     command: sh -c 'npm i && nodejs index.mjs'
-    links:
-      - redis
-    depends_on:
-      - redis
 
   web:
     image: nginx:alpine
