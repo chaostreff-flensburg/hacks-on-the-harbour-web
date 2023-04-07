@@ -1,6 +1,6 @@
 # Hacks on the Habour Website
 
-Requirement: Node
+Requirement: Node 16 (LTS)
 
 ## Build Setup
 
