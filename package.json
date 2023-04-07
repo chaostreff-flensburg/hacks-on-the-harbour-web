@@ -1,6 +1,6 @@
 {
   "name": "hacks-on-the-habour-web",
-  "version": "2.0",
+  "version": "2.0.0",
   "author": "ADB <adb-sh@users.noreply.github.com>",
   "private": true,
   "scripts": {

@@ -6,7 +6,7 @@ Das Hacks on the Harbour ist ein Maker & Hacker Festival - direkt am Hafen von S
 
 [.ics](/hoth23.ics)
 
-Du willst auf dem laufenden bleiben? Dann abbonier doch unseren [Newsletter](https://mailtrain.chaostreff-flensburg.de/subscription/SyqP1Sy5c) (Es reicht, wenn du nur deine E-Mail Adresse angibst)
+Du willst auf dem laufenden bleiben? Dann abbonier doch unseren [Newsletter](#newsletter) (Es reicht, wenn du nur deine E-Mail Adresse angibst)
 
 <corevideoplayer
   src="/hoth-drohne.webm"

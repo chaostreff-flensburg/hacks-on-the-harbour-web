@@ -3,11 +3,19 @@
     <hoth-header class="header"></hoth-header>
 
     <main class="content">
-      <hoth-nav class="nav"/>
+      <hoth-nav class="nav" />
       <ClientOnly>
         <ToggleLanguage />
       </ClientOnly>
-      <Content class="card"/>
+      <div class="card">
+
+        <Content />
+
+        <ClientOnly>
+          <NewsletterForm/>
+        </ClientOnly>
+      </div>
+
     </main>
 
     <hoth-footer class="footer"></hoth-footer>
@@ -16,13 +24,15 @@
 
 <script>
 import ToggleLanguage from "../components/ToggleLanguage";
+import NewsletterForm from "../components/NewsletterForm";
 export default {
-  components: {ToggleLanguage}
+  components: { ToggleLanguage }
 }
 </script>
 
 <style>
-html, body {
+html,
+body {
   --white: #fafafa;
   --black: #222;
   --dark-blue: #1D2B53;
@@ -65,7 +75,12 @@ html.theme-dark {
   --theme-background-off: var(--dark-blue);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: 700;
 }
 
@@ -77,12 +92,16 @@ a {
 table {
   width: 100%;
 }
-th, td {
+
+th,
+td {
   padding: 8px;
 }
+
 th {
   border-bottom: 1px solid var(--foreground);
 }
+
 tr:nth-of-type(even) {
   background-color: var(--background-off)
 }
@@ -99,28 +118,33 @@ tr:nth-of-type(even) {
   grid-gap: 0 16px;
   background-color: #3b579a;
 }
+
 @media (max-width: 700px) {
   .layout {
     grid-template-areas:
-    'header header header header'
-    'nav nav nav nav'
-    '. content-left content-left .'
-    '. content-right content-right .'
-    '. content content .'
-    'footer footer footer footer';
+      'header header header header'
+      'nav nav nav nav'
+      '. content-left content-left .'
+      '. content-right content-right .'
+      '. content content .'
+      'footer footer footer footer';
   }
 }
+
 .header {
   grid-area: header;
   margin: 0 0 2rem 0;
 }
+
 .nav {
   grid-area: nav;
   margin-bottom: 32px;
 }
+
 .content {
   grid-area: content;
 }
+
 .footer {
   grid-area: footer;
 }
@@ -128,30 +152,38 @@ tr:nth-of-type(even) {
 .intro.text {
   grid-area: content-left;
 }
+
 .intro.video {
   grid-area: content-right;
 }
 
-main, .card {
+main,
+.card {
   z-index: 10;
   padding: 12px 32px;
   margin-bottom: 32px;
 }
-.nav{
+
+.nav {
   position: relative;
   width: 100%;
 }
-.card{
+
+.card {
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow);
   background-color: #fffc;
   padding: 2rem;
 }
+
 @media (max-width: 700px) {
-  main, .card {
+
+  main,
+  .card {
     padding: 12px 22px;
   }
-  main{
+
+  main {
     padding: .5rem;
   }
 }
@@ -165,9 +197,12 @@ main, .card {
   font-weight: 400;
   font-display: swap;
   src:
-       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('/fonts/space-mono-v4-latin/space-mono-v4-latin-regular.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('/fonts/space-mono-v4-latin/space-mono-v4-latin-regular.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* space-mono-italic - latin */
 @font-face {
   font-family: 'Space Mono';
@@ -175,9 +210,12 @@ main, .card {
   font-weight: 400;
   font-display: swap;
   src:
-       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('/fonts/space-mono-v4-latin/space-mono-v4-latin-italic.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('/fonts/space-mono-v4-latin/space-mono-v4-latin-italic.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* space-mono-700 - latin */
 @font-face {
   font-family: 'Space Mono';
@@ -185,9 +223,12 @@ main, .card {
   font-weight: 700;
   font-display: swap;
   src:
-       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('/fonts/space-mono-v4-latin/space-mono-v4-latin-700.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('/fonts/space-mono-v4-latin/space-mono-v4-latin-700.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* space-mono-700italic - latin */
 @font-face {
   font-family: 'Space Mono';
@@ -195,7 +236,8 @@ main, .card {
   font-weight: 700;
   font-display: swap;
   src:
-       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-</style>
+    url('/fonts/space-mono-v4-latin/space-mono-v4-latin-700italic.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('/fonts/space-mono-v4-latin/space-mono-v4-latin-700italic.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}</style>

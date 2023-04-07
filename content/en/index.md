@@ -6,7 +6,7 @@ Hacks on the Harbour is a maker & hacker festival - right next to Sønderborg ha
 
 [.ics](/hoth23.ics)
 
-You want to be up to date? Subscribe to our [newsletter](https://mailtrain.chaostreff-flensburg.de/subscription/SyqP1Sy5c) (You only need to provide your email address)
+You want to be up to date? Subscribe to our [newsletter](#newsletter) (You only need to provide your email address)
 
 <corevideoplayer
   src="/hoth-drohne.webm"
