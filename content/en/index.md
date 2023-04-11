@@ -2,9 +2,14 @@
 
 Hacks on the Harbour is a maker & hacker festival - right next to Sønderborg harbour. We pair a great view with a diverse schedule. Expect several workshops, inspiring talks and a lot of space to connect with new people!
 
+
 ## Save the Date: 08. - 10.09.2023
 
 [.ics](/hoth23.ics)
+
+## Submit a talk or workshop proposal
+
+[CFP for Hacks on the Harbour 2023 in Sønderborg](https://pretalx.chaostreff-flensburg.de/hoth2023/cfp)
 
 You want to be up to date? Subscribe to our [newsletter](#newsletter) (You only need to provide your email address)
 
