@@ -8,7 +8,7 @@ Das Hacks on the Harbour ist ein Maker & Hacker Festival - direkt am Hafen von S
 
 ## Submit a talk or workshop proposal
 
-[CFP for Hacks on the Harbour 2023 in Sønderborg](https://pretalx.chaostreff-flensburg.de/hoth2023/cfp
+[CFP for Hacks on the Harbour 2023 in Sønderborg](https://pretalx.chaostreff-flensburg.de/hoth2023/cfp)
 
 Du willst auf dem laufenden bleiben? Dann abbonier doch unseren [Newsletter](#newsletter) (Es reicht, wenn du nur deine E-Mail Adresse angibst)
 
