@@ -2,14 +2,12 @@
   <section>
     <ClientOnly>
       <nav v-if="currentLang && currentLang.lang === 'english'">
-        <a href="#" class="nav-link">Tickets TBA</a>
-        <!--<a href="https://tickets.chaostreff-flensburg.de/ctfl/hoth2022/" class="nav-link"  target="_blank">Tickets</a>-->
+        <a href="https://tickets.chaostreff-flensburg.de/hoth/hoth23/" class="nav-link"  target="_blank">Tickets</a>
         <a href="#program">Program</a>
         <a href="#faq">F.A.Q.</a>
       </nav>
       <nav v-else-if="currentLang && currentLang.lang === 'german'">
-        <a href="#" class="nav-link">Tickets kommen noch</a>
-        <!--<a href="https://tickets.chaostreff-flensburg.de/ctfl/hoth2022/" class="nav-link"  target="_blank">Tickets</a>-->
+        <a href="https://tickets.chaostreff-flensburg.de/hoth/hoth23/" class="nav-link"  target="_blank">Tickets</a>
         <a href="#programm">Programm</a>
         <a href="#faq">F.A.Q.</a>
       </nav>

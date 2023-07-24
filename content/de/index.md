@@ -2,8 +2,13 @@
 
 Das Hacks on the Harbour ist ein Maker & Hacker Festival - direkt am Hafen von Sønderborg. Es gibt eine schöne Aussicht und einen abwechslungsreichen Tagesplan, sowie viele unterschiedliche Workshops und inspirierende Vorträge - und natürlich jede Menge Platz, um neue Kontakte zu knüpfen!
 
-## Save the Date: 08. - 10.09.2023
+## Sichere dir dein Ticket!
 
+Für die Teilnahme an der Veranstaltung ist ein Ticket erforderlich. Das hilft uns bei der Planung. Die Tickets sind kostenlos, mit einer zusätzlichen Spende kannst du die Veranstaltung unterstützen. Für Essen am Freitag und Samstag Abend ist ebenfalls gesorgt. 
+
+<a href="https://tickets.chaostreff-flensburg.de/hoth/hoth23/" target="_blank">Tickets</a>
+
+Datum: 08. - 10.09.2023
 [.ics](/hoth23.ics)
 
 ## Jetzt Workshop, Talk oder Lightning Talk einreichen
@@ -28,11 +33,48 @@ Du willst auf dem laufenden bleiben? Dann abbonier doch unseren [Newsletter](#ne
 
 ## Programm
 
+### Freitag - Tag 1
+
+| Wann | Was |
+| :-- | :-- |
+| 11:42 | Aufbau |
+| 18:42 | Eröffnung/ Opening |
+| 19:00 | Pizza |
+| 20:15 | ⚡Lightning Talks |
+| TBA | Ende Tag 1 |
+
+### Samstag - Tag 2
+
+| Wann | Was |
+| :-- | :-- |
+| TBA | Vorträge & Workshops TBA |
+| 17:00 | Hot-Dog Buffet |
+| TBA | Ende Tag 2 |
+
+### Sonntag - Tag 3
+
+| Wann | Was |
+| :-- | :-- |
+| 12:15 | Closing & Aufwiedersehen |
+| bis fertig | Abbau |
+
 :arrow_right: Wird zeitnah ergänzt.
 
 ## FAQ
 
-:arrow_right: Wird zeitnah ergänzt.
+Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an hoth@chaostreff-flensburg.de
+
+### An wen richtet sich die Veranstaltung?
+Die Veranstaltung richtet sich an alle, die sich für Basteln, Programmieren, Hacken, Tüfteln, Löten, 3D-Drucken, Chaos und Netzpolitik interessieren oder begeistern können. Du musst kein Experte sein oder Vorkenntnisse haben, um an dieser Veranstaltung teilzunehmen.
+**Am besten schaust du einfach mal vorbei.**
+
+Du solltest nicht kommen, wenn du an Verschwörungsmythen glaubst oder nicht "Be excelent to each other" sein möchtest. 
+
+### Kommunikation während der Veranstaltung
+
+Für die Teilnehmer\*innen dieser Veranstaltung steht ein öffentlicher Matrix-Raum zur Verfügung. Matrix ist eine kostenlose und öffentliche Kommunikationsplattform. 
+Den Zugang zum Matrix Raum findest du hier [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
+Mehr Informationen zu Matrix findest du auf der  [Element Seite](https://element.io/).
 
 ### Wo findet das Event statt?
 
@@ -42,9 +84,40 @@ Biblioteket Sønderborg (Nørre Havnegade 15, 6400 Sønderborg, Dänemark)
 
 [Open Street Map](https://www.openstreetmap.org/node/313714920)
 
+### Essen
+
+Für das Abendessen am Freitag und Samstag ist ebenfalls gesorgt. Das Essen wird vegetarisch und vegan sein. Es wird auch glutenfreies Essen geben.
+Am Freitagabend werden wir Pizza bestellen und essen. 
+Am Samstag Abend wird es ein Hot Dog Buffet geben.
+
+Wenn du zu anderen Zeiten essen möchtest, musst du dich selbst versorgen. Aber keine Sorge, in der Nähe gibt es verschiedene Geschäfte und Restaurants.
+
 ### Braucht ihr noch Freiwillige?
 
 Wenn du uns bei den Workshops oder beim Aufbau/Orga helfen willst, schreib uns einfach eine E-Mail an hoth@chaostreff-flensburg.de. Das Event lebt von der unterstüztung Freiwilliger.
+
+### Anreise
+
+#### 🚗 Auto
+Von Flensburg nach Sønderborg sind es etwa 40 Minuten. Von Hamburg aus solltest du mindestens 2 Stunden und 15 Minuten für die Fahrt einplanen. Von Apenrade aus brauchst du 30 Minuten und von Kolding aus etwa 60 Minuten. Nutze das Navigationssystem deiner Wahl.
+Direkt neben der Bibliothek befindet sich ein Parkhaus (gebührenpflichtig). Dort gibt es auch Ladestationen für Elektroautos. In der näheren Umgebung gibt es weitere Parkplätze, die zum Teil kostenlos sind.
+
+#### 🚂 Zug
+Vom Bahnhof Sønderborg sind es nur 12 Minuten zu Fuß zur Biblioteket Sønderborg, aber von Flensburg aus brauchst du mit dem Zug etwa 2 Stunden und 30 Minuten. Aus diesem Grund wird sie von uns nicht empfohlen. Von Kolding aus dauert es etwa 1 Stunde und 19 Minuten.
+
+#### Shuttle aus Flensburg
+Aufgrund der geringen Nachfrage wird es in diesem Jahr keinen Shuttle-Bus ab Flensburg geben. Wir empfehlen die Anreise mit öffentlichen Verkehrsmitteln. Ab Flensburg fährt die Buslinie 110.
+
+#### 🚌 Bus
+Du kannst die Bus Linie 110 (der Fahrgesellschaft Sydtrafik) von Flensburg zu der Station "Arnkilgade v sygehuset" nehmen und dann 15 Minuten zu Fuß laufen. Insgesamt brauchst du dafür 1:20 Stunden. Der Preis liegt bei etwa 6€. Weitere Informationen kannst du auf der Webseite finden: [sydatrafik.dk](https://www.sydtrafik.dk/) -> "Rejseplanen".
+Wenn der Preis für dich ein Problem darstellt, schreibe eine E-Mail an hoth@chaostreff-flensburg.de und wir werden eine Lösung finden. Zum Beispiel: Rückerstattung der Bus-Reisekosten.
+
+#### 🛥️ Fahrrad und Schiff
+Es gibt keine direkte Fährverbindung nach Sønderborg.
+Wenn du unbedingt mit dem Schiff anreisen möchtest, gibt es eine Fährverbindung von Langballigau nach Sønderborg.
+Mit dem eigenen Boot kann man direkt am Hafen anlegen. 
+Von Flensburg sind es 40 km mit dem Fahrrad. 
+In Langballigau gibt es auch eine Fahrradfähre auf die dänische Seite der Förde.
 
 ### Unterkünfte
 
@@ -63,11 +136,17 @@ Wenn du uns bei den Workshops oder beim Aufbau/Orga helfen willst, schreib uns e
 
 **Alternative Unterkünfte** Ist aktuell Work in Progress. Vielleicht wird es eine Turnhalle mit günstigen Übernachtungsmöglichkeiten geben.
 
+### Kann ich vorbeikommen um einfach neue Menschen kennen zu lernen oder an meinem eigenen Projekt zu arbeiten?
+Auf jeden Fall! Das ist genau das, was unsere Events ausmacht: hacken, basteln und an eigenen Projekten, für die man zu Hause keine Zeit hat, arbeiten und dabei neue Inspirationen sammeln. Ein weiterer Punkt ist neue Verbindungen und Bekanntschaften zu knüpfen. Wir haben vor Ort dafür extra Örtlichkeiten, welche auf unseren bisherigen Events oft genutzt wurden. Wenn du wetwas größeres als z.B. nur dienen Laptop und Arduino (etc.) mitbringen willst, schrieb uns doch vorher bitte eine kurze E-Mail: hoth@chaostreff-flensburg.de
 
-### Kontakt
+### Was kostet ein Ticket?
+Die Tickets sind kostenlos, aber du kannst einen freiwilligen Betrag zu dem Event beitragen. Das Geld wir von dem Verein Chaostreff Flensburg e.V. (non-profit) verwaltet.
+
+
+## Kontakt
 
 * E-Mail: hoth@chaostreff-flensburg.de
+* Öffentlich Matrix Raum: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
 * Mastodon: [@chaos_fl@chaos.social](https://chaos.social/web/accounts/162706)
-* Twitter: [@chaos_fl](https://twitter.com/chaos_fl)
 * Instagram: [chaos_fl](https://www.instagram.com/chaos_fl/)
 * Webseite: [chaostreff-flensburg.de](https://chaostreff-flensburg.de/)
