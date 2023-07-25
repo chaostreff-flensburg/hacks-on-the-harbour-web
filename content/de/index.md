@@ -147,6 +147,6 @@ Die Tickets sind kostenlos, aber du kannst einen freiwilligen Betrag zu dem Even
 
 * E-Mail: hoth@chaostreff-flensburg.de
 * Öffentlich Matrix Raum: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
-* Mastodon: [@chaos_fl@chaos.social](https://chaos.social/web/accounts/162706)
+* Mastodon: [@chaos_fl@chaos.social](https://chaos.social/@chaos_fl)
 * Instagram: [chaos_fl](https://www.instagram.com/chaos_fl/)
 * Webseite: [chaostreff-flensburg.de](https://chaostreff-flensburg.de/)

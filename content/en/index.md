@@ -137,6 +137,6 @@ The tickets are free, but you can contribute a voluntary amount to the event. Th
 
 * Email: hoth@chaostreff-flensburg.de
 * Public Mastodon Channel: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
-* Mastadon: [@chaos_fl@chaos.social](https://chaos.social/web/accounts/162706)
+* Mastadon: [@chaos_fl@chaos.social](https://chaos.social/@chaos_fl)
 * Instagram: [chaos_fl](https://www.instagram.com/chaos_fl/)
 * Website: [chaostreff-flensburg.de](https://chaostreff-flensburg.de/)
