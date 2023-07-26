@@ -60,6 +60,8 @@ Du willst auf dem laufenden bleiben? Dann abbonier doch unseren [Newsletter](#ne
 
 :arrow_right: Wird zeitnah ergänzt.
 
+Während der gesamten Zeit werden eine 3D-Druckstation und eine Lötstation zur Verfügung stehen.
+
 ## FAQ
 
 Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an hoth@chaostreff-flensburg.de

@@ -59,7 +59,11 @@ You want to be up to date? Subscribe to our [newsletter](#newsletter) (You only 
 | 12:15 | Closing & Goodbye |
 | until ready | Dismantling |
 
+A 3D printing station and a soldering station will be available throughout.
+
 :arrow_right: to be announced
+
+
 
 ## FAQ
 
