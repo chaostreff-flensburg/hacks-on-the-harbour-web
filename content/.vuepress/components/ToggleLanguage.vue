@@ -8,6 +8,7 @@
         class="language"
         :class="{ active: currentLang === lang }"
       >{{lang.lang}}</router-link>
+      <a class="language" href="#keineRakeden">Stop Rakeden</a>
     </div>
   </ClientOnly>
 </template>

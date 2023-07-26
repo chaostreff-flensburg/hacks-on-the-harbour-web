@@ -1,6 +1,9 @@
 <template>
   <section class="layout">
-    <hoth-header class="header"></hoth-header>
+    
+    <ClientOnly>
+      <hoth-header class="header"></hoth-header>
+    </ClientOnly>
 
     <main class="content">
       <hoth-nav class="nav" />
@@ -26,7 +29,7 @@
 import ToggleLanguage from "../components/ToggleLanguage";
 import NewsletterForm from "../components/NewsletterForm";
 export default {
-  components: { ToggleLanguage }
+  components: { ToggleLanguage },
 }
 </script>
 

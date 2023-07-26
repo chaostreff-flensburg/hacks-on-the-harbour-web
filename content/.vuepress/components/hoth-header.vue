@@ -4,7 +4,9 @@
       <img src="../../assets/logo.png" class="logo" id="logo" alt="hacks on the harbour logo">
     </router-link>
     <img src="../../assets/header-back.svg" class="back-curve" alt="">
-    <rocket-animation />
+    <ClientOnly>
+      <rocket-animation v-if="showRakeden"/>
+    </ClientOnly>
   </figure>
 </template>
 
@@ -15,7 +17,28 @@
   export default {
     components: {
       'no-ssr': NoSSR
+    },
+  data(){
+    return {
+      showRakeden: true
+  }
+},
+    created(){
+      this.updateRakedenStatus()
+    },
+    
+  watch: {
+    '$route': function (){
+      this.updateRakedenStatus();
     }
+  },
+  methods: {
+    updateRakedenStatus(){
+      if(window.location.href.includes('keineRakeden')){
+        this.showRakeden = false;
+      }
+    },
+  }
   }
 </script>
 
