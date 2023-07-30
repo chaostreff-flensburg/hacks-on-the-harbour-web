@@ -122,6 +122,12 @@ In Langballigau there is also a bicycle ferry to the Danish side of the fjord.
 
 ### Accommodation
 
+#### Tents and cabins
+
+There is the possibility to stay at [Sønderborg Camping](https://sonderborgcamping.dk/uk/) directly at the beach and only 30min walk/6min drive from the venue. If you want to stay the whole weekend with a [tent, it costs about 42€](https://sonderborgcamping.dk/uk/) (the prices on the site are in Danish kroner). A [cabin for two people is available from 135€ for the whole weekend](https://sonderborgcamping.dk/uk/campinghutten/2-personen-hutte.aspx). There are also larger cabins. (https://sonderborgcamping.dk/uk/campinghutten.aspx).
+
+#### Hotels & Hostels
+
 | Name | What | Distance | Price | 
 | -- | -- | -- | -- |
 |Steigenberger Alsik Hotel & Spa| Spa&Luxury | 2 minutes | From 199€/night |

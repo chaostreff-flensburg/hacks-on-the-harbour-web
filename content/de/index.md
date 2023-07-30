@@ -123,6 +123,12 @@ In Langballigau gibt es auch eine Fahrradfähre auf die dänische Seite der För
 
 ### Unterkünfte
 
+#### Zelten und Hütten
+
+Es gibt die Möglichkeit auf [Sønderborg Camping](https://sonderborgcamping.dk/ge/) direkt am Strand und nur 30min zu Fuß/6min mit dem Auto vom Veranstaltungsort entfernt zu übernachten. Wenn du das ganze Wochenende mit einem [Zelt übernachten möchtest, kostet das ca. 42€](https://sonderborgcamping.dk/ge/) (die Preise auf der Seite sind in dänischen Kronen angegeben). Eine [Hütte für zwei Personen gibt es ab 135€ für das ganze Wochenende](https://sonderborgcamping.dk/ge/campinghutten/2-personen-hutte.aspx). Es gibt auch größere Hütten. (https://sonderborgcamping.dk/ge/campinghutten.aspx).
+
+#### Hotels & Hostels
+
 | Name | Was | Entfernung | Preis | 
 | -- | -- | -- | -- |
 |Steigenberger Alsik Hotel & Spa| Spa&Luxus | 2 Minuten | Ab 199€/Nacht |
