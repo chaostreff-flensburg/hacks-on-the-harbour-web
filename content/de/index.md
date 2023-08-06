@@ -133,7 +133,7 @@ Es gibt die Möglichkeit auf [Sønderborg Camping](https://sonderborgcamping.dk/
 | -- | -- | -- | -- |
 |Steigenberger Alsik Hotel & Spa| Spa&Luxus | 2 Minuten | Ab 199€/Nacht |
 |Hotel Sønderborg Kaserne| - | 4 Minuten  | Ausverkauft? |
-|Danhostel Sønderborg CityWird|Hostel|1,1km|80€/Nacht|
+|Danhostel Sønderborg City|Hostel|1,1km|133€/Wochenende; viel günstiger bei Gruppen|
 |Hotel Sønderborg Garni|-|0,8km|100€/Nacht|
 |Hotel Sonderborg Strand;<br/> Sure Hotel Collection|-|0,6km|110€/Nacht|
 |Scandic Sønderborg|-|2,5km|210€|

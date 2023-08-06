@@ -132,7 +132,7 @@ There is the possibility to stay at [Sønderborg Camping](https://sonderborgcamp
 | -- | -- | -- | -- |
 |Steigenberger Alsik Hotel & Spa| Spa&Luxury | 2 minutes | From 199€/night |
 |Hotel Sønderborg Kaserne| - | 4 minutes | Sold out? |
-|Danhostel Sønderborg CityWird|Hostel|1,1km|80€/night|
+|Danhostel Sønderborg City|Hostel|1,1km|133€/night; much cheaper for groups|
 |Hotel Sønderborg Garni|-|0,8km|100€/night|
 |Hotel Sonderborg Strand;<br/> Sure Hotel Collection|-|0,6km|110€/night|
 |Scandic Sønderborg|-|2,5km|210€|
@@ -146,7 +146,7 @@ The tickets are free, but you can contribute a voluntary amount to the event. Th
 ## Contact Details?
 
 * Email: hoth@chaostreff-flensburg.de
-* Public Mastodon Channel: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
+* Public Matrix Channel: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
 * Mastadon: [@chaos_fl@chaos.social](https://chaos.social/@chaos_fl)
 * Instagram: [chaos_fl](https://www.instagram.com/chaos_fl/)
 * Website: [chaostreff-flensburg.de](https://chaostreff-flensburg.de/)
