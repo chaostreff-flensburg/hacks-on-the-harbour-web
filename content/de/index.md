@@ -104,6 +104,8 @@ Wenn du uns bei den Workshops oder beim Aufbau/Orga helfen willst, schreib uns e
 Von Flensburg nach Sønderborg sind es etwa 40 Minuten. Von Hamburg aus solltest du mindestens 2 Stunden und 15 Minuten für die Fahrt einplanen. Von Apenrade aus brauchst du 30 Minuten und von Kolding aus etwa 60 Minuten. Nutze das Navigationssystem deiner Wahl.
 Direkt neben der Bibliothek befindet sich ein Parkhaus (gebührenpflichtig). Dort gibt es auch Ladestationen für Elektroautos. In der näheren Umgebung gibt es weitere Parkplätze, die zum Teil kostenlos sind.
 
+Mitfahrgelgenheit gesucht? Wir haben ein [Pad zur Vernetzung erstellt](https://md.ctfl.space/mfg). 
+
 #### 🚂 Zug
 Vom Bahnhof Sønderborg sind es nur 12 Minuten zu Fuß zur Biblioteket Sønderborg, aber von Flensburg aus brauchst du mit dem Zug etwa 2 Stunden und 30 Minuten. Aus diesem Grund wird sie von uns nicht empfohlen. Von Kolding aus dauert es etwa 1 Stunde und 19 Minuten.
 

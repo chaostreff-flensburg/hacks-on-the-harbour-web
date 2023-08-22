@@ -103,6 +103,8 @@ If you want to help with the workshops or build up and tear down, please reach o
 It takes about 40 minutes to get from Flensburg to Sønderborg. From Hamburg you should plan at least 2 hours and 15 minutes for the journey. From Apenrade it takes 30 minutes and from Kolding about 60 minutes. Use the navigation system of your choice.
 There is a multi-storey car park next to the library (charges apply). There are also charging stations for electric cars. There are other parking spaces in the vicinity, some of which are free of charge.
 
+Looking for a ride? We have created a [networking ride share pad](https://md.ctfl.space/mfg).
+
 #### 🚂 Train
 It is only a 12-minute walk from Sønderborg train station to the Biblioteket Sønderborg, but it takes you about 2 hours and 30 minutes by train from Flensburg. For this reason, we do not recommend it. From Kolding it takes about 1 hour and 19 minutes.
 
