@@ -89,8 +89,8 @@ Biblioteket Sønderborg (Nørre Havnegade 15, 6400 Sønderborg, Dänemark)
 
 ### Food
 Dinner on Friday and Saturday will also be provided. The food will be vegetarian and vegan. There will also be gluten-free food.
-On Friday evening we will order and eat pizza. 
-On Saturday evening there will be a hot dog buffet.
+On Friday evening there will be a hot dog buffet.
+On Saturday evening we will order and eat pizza. 
 
 If you want to eat at other times, you will have to cater for yourself. But don't worry, there are several shops and restaurants nearby.
 
