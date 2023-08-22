@@ -39,7 +39,7 @@ Du willst auf dem laufenden bleiben? Dann abbonier doch unseren [Newsletter](#ne
 | :-- | :-- |
 | 11:42 | Aufbau |
 | 18:42 | Eröffnung/ Opening |
-| 19:00 | Pizza |
+| 19:00 | Hot-Dog Buffet |
 | 20:15 | ⚡Lightning Talks |
 | TBA | Ende Tag 1 |
 
@@ -48,7 +48,7 @@ Du willst auf dem laufenden bleiben? Dann abbonier doch unseren [Newsletter](#ne
 | Wann | Was |
 | :-- | :-- |
 | TBA | Vorträge & Workshops TBA |
-| 17:00 | Hot-Dog Buffet |
+| 17:00 | Pizza |
 | TBA | Ende Tag 2 |
 
 ### Sonntag - Tag 3

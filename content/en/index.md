@@ -40,7 +40,7 @@ You want to be up to date? Subscribe to our [newsletter](#newsletter) (You only 
 | -- | -- |
 | 11:42 | Set-up |
 | 18:42 | Opening |
-| 19:00 | Pizza |
+| 19:00 | Hot-Dog Buffet |
 | 20:15 | ⚡Lightning Talks |
 | TBA | End Day 1 |
 
@@ -49,7 +49,7 @@ You want to be up to date? Subscribe to our [newsletter](#newsletter) (You only 
 | When | What |
 | -- | -- |
 | TBA | Talks & Workshops TBA |
-| 17:00 | Hot-Dog Buffet |
+| 17:00 | Pizza |
 | TBA | End of Day 2 |
 
 ### Sunday - Day 3
