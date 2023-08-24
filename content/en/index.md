@@ -152,3 +152,5 @@ The tickets are free, but you can contribute a voluntary amount to the event. Th
 * Mastadon: [@chaos_fl@chaos.social](https://chaos.social/@chaos_fl)
 * Instagram: [chaos_fl](https://www.instagram.com/chaos_fl/)
 * Website: [chaostreff-flensburg.de](https://chaostreff-flensburg.de/)
+
+<a rel="me" href="https://chaos.social/@chaos_fl">Our Mastodon @chaos_fl@chaos.social</a>
