@@ -4,18 +4,12 @@ Das Hacks on the Harbour ist ein Maker & Hacker Festival - direkt am Hafen von S
 
 ## Sichere dir dein Ticket!
 
-Für die Teilnahme an der Veranstaltung ist ein Ticket erforderlich. Das hilft uns bei der Planung. Die Tickets sind kostenlos, mit einer zusätzlichen Spende kannst du die Veranstaltung unterstützen. Für Essen am Freitag und Samstag Abend ist ebenfalls gesorgt. 
+Für die Teilnahme an der Veranstaltung ist ein Ticket erforderlich. Das hilft uns bei der Planung. **Die Tickets sind kostenlos**, mit einer zusätzlichen Spende kannst du die Veranstaltung unterstützen. Für Essen am Freitag und Samstag Abend ist ebenfalls gesorgt. 
 
 <a href="https://tickets.chaostreff-flensburg.de/hoth/hoth23/" target="_blank">Tickets</a>
 
 Datum: 08. - 10.09.2023
 [.ics](/hoth23.ics)
-
-## Jetzt Workshop, Talk oder Lightning Talk einreichen
-
-[CFP für Hacks on the Harbour 2023](https://pretalx.chaostreff-flensburg.de/hoth2023/cfp)
-
-Du willst auf dem laufenden bleiben? Dann abbonier doch unseren [Newsletter](#newsletter) (Es reicht, wenn du nur deine E-Mail Adresse angibst)
 
 <corevideoplayer
   src="/hoth-drohne.webm"
