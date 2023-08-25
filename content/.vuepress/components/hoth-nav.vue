@@ -3,13 +3,15 @@
     <ClientOnly>
       <nav v-if="currentLang && currentLang.lang === 'english'">
         <a href="https://tickets.chaostreff-flensburg.de/hoth/hoth23/" class="nav-link"  target="_blank">Tickets</a>
-        <a href="#program">Program</a>
-        <a href="#faq">F.A.Q.</a>
+        <a href="/en/#program">Program</a>
+        <a href="/en/#faq">F.A.Q.</a>
+        <a href="/en/coc.html">CoC</a>
       </nav>
       <nav v-else-if="currentLang && currentLang.lang === 'german'">
         <a href="https://tickets.chaostreff-flensburg.de/hoth/hoth23/" class="nav-link"  target="_blank">Tickets</a>
-        <a href="#programm">Programm</a>
-        <a href="#faq">F.A.Q.</a>
+        <a href="/de/#programm">Programm</a>
+        <a href="/de/#faq">F.A.Q.</a>
+        <a href="/de/coc.html">CoC</a>
       </nav>
     </ClientOnly>
   </section>
