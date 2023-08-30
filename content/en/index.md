@@ -153,6 +153,11 @@ In Denmark, there are currently no hygiene restrictions because of Covidien. In 
 ### Photo Policy
 Not allowed are "unsolicited recordings or portraits (picture, video, sound) of other persons". However, as with [our last events](https://www.flickr.com/photos/157585171@N05/), we want to have pictures as documentation of the event. Therefore, [kekskurse](https://gallery.kekskurse.de/) will again be active as photographer. To make it easy to see who agrees to the publication of the pictures taken, we will have different coloured key rings for the name tags on site. Purple or yellow means you do **not** want your pictures to be published. Green or black means you agree. If you have any questions about this, write us an email or talk to us on site.
 
+### Quiet Room 
+There are two quiet rooms during the day. You can use them when you need a quiet break. The rooms are equipped with tables and chairs. Please be as quiet as possible and talk elsewhere if necessary. There is one room with wooden beams and a view of the water with the room number MP 1.1.
+The second room is room M3.2, it is slightly smaller and does not have a direct window to the outside. 
+If you need help finding the room, you can always contact the Orga and the library staff. Both rooms are signposted.
+
 ## Contact Details?
 
 * Email: hoth@chaostreff-flensburg.de

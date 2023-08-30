@@ -162,6 +162,11 @@ In Dänemark gibt es derzeit keine Hygieneeinschränkungen wegen Covid. Generell
 ### Photo Policy
 Nicht erlaubt sind "ungefragte Aufnahmen oder Porträts (Bild, Video, Ton) von anderen Personen". Wir wollen aber, wie bei [unseren letzten Veranstaltungen](https://www.flickr.com/photos/157585171@N05/), Bilder als Dokumentation der Veranstaltung haben. Deshalb wird [kekskurse](https://gallery.kekskurse.de/) wieder als Fotograf aktiv sein. Damit man leicht erkennen kann, wer mit der Veröffentlichung der gemachten Bilder einverstanden ist, haben wir verschiedenfarbige Schlüsselanhänger für die Namensschilder vor Ort. Lila oder Gelb heißt du möchtest **nicht** das Bilder von dir veröffentlicht werden. Grün oder Schwarz heißt du bist damit einverstanden. Wenn du noch Fragen dazu hast, schreibe uns eine E-Mail oder sprich uns vor Ort an.
 
+### Ruheraum
+Tagsüber gibt es zwei Ruheräume. Ihr könnt sie benutzen, wenn ihr eine ruhige Pause braucht. Die Räume sind mit Tischen und Stühlen ausgestattet. Bitte verhaltet euch dort möglichst leise und unterhaltet euch, wenn nötig, woanders. Es gibt einen Raum mit Holzbalken und Blick aufs Wasser mit der Raumnummer MP 1.1.
+Der zweite Raum ist der Raum M3.2, er ist etwas kleiner und hat keine direkte Fensterfront nach draußen. 
+Wenn du Hilfe brauchst, den Raum zu finden, kannst du dich jederzeit an die Orga und das Bibliothekspersonal wenden. Beide Räume sind ausgeschildert.
+
 ## Kontakt
 
 * E-Mail: hoth@chaostreff-flensburg.de
