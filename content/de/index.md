@@ -82,7 +82,7 @@ Biblioteket Sønderborg (Nørre Havnegade 15, 6400 Sønderborg, Dänemark)
 
 ### Essen
 
-Für das Abendessen am Freitag und Samstag ist ebenfalls gesorgt. Das Essen wird vegetarisch und vegan sein. Es wird auch glutenfreies Essen geben.
+Für das Abendessen am Freitag und Samstag ist ebenfalls gesorgt. Das Essen wird vegetarisch und vegan sein. Es wird auch glutenfreies Essen geben. 
 Am Freitag Abend wird es ein Hot Dog Buffet geben.
 Am Samstag Abend werden wir Pizza bestellen und essen. 
 
@@ -119,6 +119,8 @@ In Langballigau gibt es auch eine Fahrradfähre auf die dänische Seite der För
 
 ### Unterkünfte
 
+Alle Teilnehmenden müssen sich selbst um eine Unterkunft kümmern. Nachts ist die Bibliothek geschlossen. Es gibt **keine** Übernachtungsmöglichkeiten in der Bibliothek.
+
 #### Zelten und Hütten
 
 Es gibt die Möglichkeit auf [Sønderborg Camping](https://sonderborgcamping.dk/ge/) direkt am Strand und nur 30min zu Fuß/6min mit dem Auto vom Veranstaltungsort entfernt zu übernachten. Wenn du das ganze Wochenende mit einem [Zelt übernachten möchtest, kostet das ca. 42€](https://sonderborgcamping.dk/ge/) (die Preise auf der Seite sind in dänischen Kronen angegeben). Eine [Hütte für zwei Personen gibt es ab 135€ für das ganze Wochenende](https://sonderborgcamping.dk/ge/campinghutten/2-personen-hutte.aspx). Es gibt auch größere Hütten. (https://sonderborgcamping.dk/ge/campinghutten.aspx).
@@ -147,6 +149,13 @@ Auf jeden Fall! Das ist genau das, was unsere Events ausmacht: hacken, basteln u
 ### Was kostet ein Ticket?
 Die Tickets sind kostenlos, aber du kannst einen freiwilligen Betrag zu dem Event beitragen. Das Geld wir von dem Verein Chaostreff Flensburg e.V. (non-profit) verwaltet.
 
+### Getränke
+In der Bibliothek gibt es Leitungswasser und Kaffee. Wir werden auch einen Wasserkocher mitbringen, aber es ist besser, wenn du deinen eigenen Tee mitbringst. Wir werden auch Mate, Fritz Cola und einige Fritz Limonaden mitbringen und gegen eine Spende (am besten in Euro) zur Verfügung stellen. Allerdings können wir nur eine begrenzte Menge mitbringen. Du kannst also gerne deine eigenen Getränke mitbringen oder du schaust, was es in den Geschäften vor Ort zu kaufen gibt. Die Auswahl wird anders sein als in anderen Ländern.
+
+Es wird keine offizielle Bar geben. Auch hier seid ihr eingeladen, eure eigenen Getränke mitzubringen und euch mit anderen auszutauschen.
+
+### Hygiene Vor-Ort
+In Dänemark gibt es derzeit keine Hygieneeinschränkungen wegen Covid. Generell wurde das Thema dort weniger stark behandelt als in Deutschland. Wir bitten trotzdem darum, nicht mit einer Infektionskrankheit zu kommen. Wir werden kostenlos Masken und Covid Tests zur Verfügung stellen. Es gibt keine Maskenpflicht vor Ort. Bitte respektiere, wenn andere eine Maske tragen.
 
 ## Kontakt
 

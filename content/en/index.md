@@ -118,6 +118,8 @@ In Langballigau there is also a bicycle ferry to the Danish side of the fjord.
 
 ### Accommodation
 
+All participants must arrange their own accommodation. The library is closed at night. There is **no** overnight accommodation in the library.
+
 #### Tents and cabins
 
 There is the possibility to stay at [Sønderborg Camping](https://sonderborgcamping.dk/uk/) directly at the beach and only 30min walk/6min drive from the venue. If you want to stay the whole weekend with a [tent, it costs about 42€](https://sonderborgcamping.dk/uk/) (the prices on the site are in Danish kroner). A [cabin for two people is available from 135€ for the whole weekend](https://sonderborgcamping.dk/uk/campinghutten/2-personen-hutte.aspx). There are also larger cabins. (https://sonderborgcamping.dk/uk/campinghutten.aspx).
@@ -138,6 +140,14 @@ Absolutely! That's exactly what our events are all about: hacking, tinkering and
 
 ### How much does a ticket cost?
 The tickets are free, but you can contribute a voluntary amount to the event. The money will be administered by the Chaostreff Flensburg e.V. (non-profit).
+
+### Drinks
+There is tap water and coffee in the library. We will also bring a electric kettle, but it is better if you bring your own tea. We will also bring Mate, Fritz Cola and some Fritz lemonades and provide them for a donation (preferably in Euros). However, we can only bring a limited amount. So feel free to bring your own drinks or see what is available in the local shops. The selection will be different from other countries.
+
+There will be no official bar. Again, you are invited to bring your own drinks and share with others.
+
+### On-site hygiene
+In Denmark, there are currently no hygiene restrictions because of Covidien. In general, the issue has been treated less strongly there than in Germany. We still ask that you do not come with an infectious disease. We will provide masks and Covid tests free of charge. There is no mask requirement on site. Please respect if others wear a mask.
 
 ## Contact Details?
 
