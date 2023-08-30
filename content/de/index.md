@@ -32,7 +32,7 @@ Datum: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 | Wann | Was |
 | :-- | :-- |
 | 11:42 | Aufbau |
-| 18:42 | Eröffnung/ Opening |""
+| 18:42 | Eröffnung/ Opening |
 | 19:00 | Hot-Dog Buffet |
 | 20:15 | ⚡Lightning Talks |
 | TBA | Ende Tag 1 |
@@ -42,6 +42,8 @@ Datum: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 | Wann | Was |
 | :-- | :-- |
 | TBA | Vorträge & Workshops TBA |
+| 11:00 | Löten Einführungsworkshop an der Lötstation mit Sven |
+| 12:00 | 3D-Druck Schnupperworkshop an der 3D-Druckstation mit Alex |
 | 17:00 | Pizza |
 | TBA | Ende Tag 2 |
 
@@ -156,6 +158,9 @@ Es wird keine offizielle Bar geben. Auch hier seid ihr eingeladen, eure eigenen 
 
 ### Hygiene Vor-Ort
 In Dänemark gibt es derzeit keine Hygieneeinschränkungen wegen Covid. Generell wurde das Thema dort weniger stark behandelt als in Deutschland. Wir bitten trotzdem darum, nicht mit einer Infektionskrankheit zu kommen. Wir werden kostenlos Masken und Covid Tests zur Verfügung stellen. Es gibt keine Maskenpflicht vor Ort. Bitte respektiere, wenn andere eine Maske tragen.
+
+### Photo Policy
+Nicht erlaubt sind "ungefragte Aufnahmen oder Porträts (Bild, Video, Ton) von anderen Personen". Wir wollen aber, wie bei [unseren letzten Veranstaltungen](https://www.flickr.com/photos/157585171@N05/), Bilder als Dokumentation der Veranstaltung haben. Deshalb wird [kekskurse](https://gallery.kekskurse.de/) wieder als Fotograf aktiv sein. Damit man leicht erkennen kann, wer mit der Veröffentlichung der gemachten Bilder einverstanden ist, haben wir verschiedenfarbige Schlüsselanhänger für die Namensschilder vor Ort. Lila oder Gelb heißt du möchtest **nicht** das Bilder von dir veröffentlicht werden. Grün oder Schwarz heißt du bist damit einverstanden. Wenn du noch Fragen dazu hast, schreibe uns eine E-Mail oder sprich uns vor Ort an.
 
 ## Kontakt
 

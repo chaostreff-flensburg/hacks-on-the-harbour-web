@@ -42,6 +42,8 @@ Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 | When | What |
 | -- | -- |
 | TBA | Talks & Workshops TBA |
+| 11:00 | Soldering Introductory workshop at the soldering station with Sven |
+| 12:00 | 3D printing introductory workshop at the 3D printing station with Alex |
 | 17:00 | Pizza |
 | TBA | End of Day 2 |
 
@@ -147,6 +149,9 @@ There will be no official bar. Again, you are invited to bring your own drinks a
 
 ### On-site hygiene
 In Denmark, there are currently no hygiene restrictions because of Covidien. In general, the issue has been treated less strongly there than in Germany. We still ask that you do not come with an infectious disease. We will provide masks and Covid tests free of charge. There is no mask requirement on site. Please respect if others wear a mask.
+
+### Photo Policy
+Not allowed are "unsolicited recordings or portraits (picture, video, sound) of other persons". However, as with [our last events](https://www.flickr.com/photos/157585171@N05/), we want to have pictures as documentation of the event. Therefore, [kekskurse](https://gallery.kekskurse.de/) will again be active as photographer. To make it easy to see who agrees to the publication of the pictures taken, we will have different coloured key rings for the name tags on site. Purple or yellow means you do **not** want your pictures to be published. Green or black means you agree. If you have any questions about this, write us an email or talk to us on site.
 
 ## Contact Details?
 
