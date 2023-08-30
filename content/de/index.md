@@ -21,7 +21,7 @@ Datum: 08. - 10.09.2023 | [.ics](/hoth23.ics)
   :autoplay=false
   :muted=true
   :loop=false
-  alt="Drohne Video in dem das Multikulturhaus in Sønderborg zu sehen ist.">
+  alt="Drone video showing the Multicultural House in Sønderborg.">
 </corevideoplayer>
 🎥 Video von [faab_e](https://twitter.com/faab_e)
 
@@ -32,7 +32,7 @@ Datum: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 | Wann | Was |
 | :-- | :-- |
 | 11:42 | Aufbau |
-| 18:42 | Eröffnung/ Opening |
+| 18:42 | Eröffnung/ Opening |""
 | 19:00 | Hot-Dog Buffet |
 | 20:15 | ⚡Lightning Talks |
 | TBA | Ende Tag 1 |
