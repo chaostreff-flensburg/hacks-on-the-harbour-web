@@ -25,38 +25,40 @@ Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 </corevideoplayer>
 🎥 Video from [faab_e](https://twitter.com/faab_e)
 
-## Program
+## Programm
 
 ### Friday - Day 1
 
 | When | What |
-| -- | -- |
+| :-- | :-- |
 | 11:42 | Set-up |
 | 18:42 | Opening |
-| 19:00 | Hot-Dog Buffet |
-| 20:15 | ⚡Lightning Talks |
-| TBA | End Day 1 |
+| 19:00 | What the f*** is up with Europe? A conversation about digital EU politics in the present and future with Karen Melchior |
+| 20:00 | Hot-Dog Buffet |
+| 21:00 | Tour of the libary by Claus |
+| 23:59 | End of Day 1 |
 
 ### Saturday - Day 2
 
 | When | What |
-| -- | -- |
-| TBA | Talks & Workshops TBA |
-| 11:00 | Soldering Introductory workshop at the soldering station with Sven |
-| 12:00 | 3D printing introductory workshop at the 3D printing station with Alex |
+| :-- | :-- |
+| 08:00 | Doors Opening Day 2 |
+| 11:00 | Soldering Introductory Workshop at the Soldering Station with Sven |
+| 12:00 | 3D Printing Taster Workshop at the 3D Printing Station with Alex |
+| 14:00 | Toki pona for hackers | 
+| 15:30 | How to erase one's old identity | 
 | 17:00 | Pizza |
-| TBA | End of Day 2 |
+| 23:59 | End of Day 2 |
 
 ### Sunday - Day 3
 
 | When | What |
-| -- | -- |
+| :-- | :-- |
+| 08:00 | Doors Opening Day 2 |
 | 12:15 | Closing & Goodbye |
 | until ready | Dismantling |
 
-A 3D printing station and a soldering station will be available throughout.
-
-:arrow_right: to be announced
+:arrow_right: The programme is always WIP (Work in Progress).
 
 
 
