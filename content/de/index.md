@@ -27,34 +27,38 @@ Datum: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 
 ## Programm
 
-### Freitag - Tag 1
+### Friday - Day 1
 
-| Wann | Was |
+| When | What |
 | :-- | :-- |
-| 11:42 | Aufbau |
-| 18:42 | Eröffnung/ Opening |
-| 19:00 | Hot-Dog Buffet |
-| 20:15 | ⚡Lightning Talks |
-| TBA | Ende Tag 1 |
+| 11:42 | Set-up |
+| 18:42 | Opening |
+| 19:00 | What the f*** is up with Europe? A conversation about digital EU politics in the present and future with Karen Melchior |
+| 20:00 | Hot-Dog Buffet |
+| 21:00 | Tour of the libary by Claus |
+| 23:59 | End of Day 1 |
 
-### Samstag - Tag 2
+### Saturday - Day 2
 
-| Wann | Was |
+| When | What |
 | :-- | :-- |
-| TBA | Vorträge & Workshops TBA |
-| 11:00 | Löten Einführungsworkshop an der Lötstation mit Sven |
-| 12:00 | 3D-Druck Schnupperworkshop an der 3D-Druckstation mit Alex |
+| 08:00 | Doors Opening Day 2 |
+| 11:00 | Soldering Introductory Workshop at the Soldering Station with Sven |
+| 12:00 | 3D Printing Taster Workshop at the 3D Printing Station with Alex |
+| 14:00 | Toki pona for hackers | 
+| 15:30 | How to erase one's old identity | 
 | 17:00 | Pizza |
-| TBA | Ende Tag 2 |
+| 23:59 | End of Day 2 |
 
-### Sonntag - Tag 3
+### Sunday - Day 3
 
-| Wann | Was |
+| When | What |
 | :-- | :-- |
-| 12:15 | Closing & Aufwiedersehen |
-| bis fertig | Abbau |
+| 08:00 | Doors Opening Day 2 |
+| 12:15 | Closing & Goodbye |
+| until ready | Dismantling |
 
-:arrow_right: Wird zeitnah ergänzt.
+:arrow_right: The programme is always WIP (Work in Progress).
 
 Während der gesamten Zeit werden eine 3D-Druckstation und eine Lötstation zur Verfügung stehen.
 
