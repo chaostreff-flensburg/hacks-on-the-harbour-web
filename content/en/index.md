@@ -35,7 +35,7 @@ Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 | 18:42 | Opening |
 | 19:00 | What the f*** is up with Europe? A conversation about digital EU politics in the present and future with Karen Melchior |
 | 20:00 | Hot-Dog Buffet |
-| 21:00 | Tour of the libary by Claus |
+| 21:00 | Tour of the library by Claus |
 | 23:59 | End of Day 1 |
 
 ### Saturday - Day 2
