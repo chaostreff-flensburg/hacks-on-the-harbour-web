@@ -156,6 +156,10 @@ There is tap water and coffee in the library. We will also bring a electric kett
 
 There will be no official bar. Again, you are invited to bring your own drinks and share with others.
 
+### Telephony (DECT)
+Eventphone will offer their usual DECT phone network that you might know from other Chaos events.
+You can simply bring a [DECT handset](https://eventphone.de/doku/dect_phone_compatibility_list) and register an extension for yourself in [Eventphone's registration utility](https://guru3.eventphone.de/). The network will also support telephony via SIP (e.g. on your mobile phone or for anyone staying at home).
+
 ### On-site hygiene
 In Denmark, there are currently no hygiene restrictions because of Covidien. In general, the issue has been treated less strongly there than in Germany. We still ask that you do not come with an infectious disease. We will provide masks and Covid tests free of charge. There is no mask requirement on site. Please respect if others wear a mask.
 

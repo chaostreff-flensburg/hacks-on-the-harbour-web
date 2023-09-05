@@ -167,6 +167,10 @@ In der Bibliothek gibt es Leitungswasser und Kaffee. Wir werden auch einen Wasse
 
 Es wird keine offizielle Bar geben. Auch hier seid ihr eingeladen, eure eigenen Getränke mitzubringen und euch mit anderen auszutauschen.
 
+### Telefonie (DECT)
+Eventphone wird bei den Hacks on the Harbour das von vielen Chaos-Veranstaltungen bekannte DECT-Telefonnetz anbieten.
+Du kannst ein [handelsübliches DECT-Mobilteil](https://eventphone.de/doku/dect_phone_compatibility_list) mitbringen und dir im [Registrierung-Tool von Eventphone](https://guru3.eventphone.de/) eine Nebenstelle registrieren. Auch Telefonie per SIP (z.B. mit deinem Smartphone oder von zuhause) wird möglich sein.
+
 ### Hygiene Vor-Ort
 In Dänemark gibt es derzeit keine Hygieneeinschränkungen wegen Covid. Generell wurde das Thema dort weniger stark behandelt als in Deutschland. Wir bitten trotzdem darum, nicht mit einer Infektionskrankheit zu kommen. Wir werden kostenlos Masken und Covid Tests zur Verfügung stellen. Es gibt keine Maskenpflicht vor Ort. Bitte respektiere, wenn andere eine Maske tragen.
 
