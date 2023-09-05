@@ -129,6 +129,11 @@ In Langballigau gibt es auch eine Fahrradfähre auf die dänische Seite der För
 
 Alle Teilnehmenden müssen sich selbst um eine Unterkunft kümmern. Nachts ist die Bibliothek geschlossen. Es gibt **keine** Übernachtungsmöglichkeiten in der Bibliothek.
 
+#### Turnhalle
+Einfache Unterkunft in einer örtlichen Schulturnhalle. Du musst deine eigene Schlafausrüstung mitbringen. Ein großer Gemeinschaftsraum. Duschen sind vorhanden. Bitte sei leise und respektvoll, wenn du diese Einrichtung benutzt. 1km/15min Fußweg von der Bibliothek. 
+**Für diese Option BRAUCHST du ein Ticket**
+[Ticket](https://tickets.chaostreff-flensburg.de/hoth/hoth23/)
+
 #### Zelten und Hütten
 
 Es gibt die Möglichkeit auf [Sønderborg Camping](https://sonderborgcamping.dk/ge/) direkt am Strand und nur 30min zu Fuß/6min mit dem Auto vom Veranstaltungsort entfernt zu übernachten. Wenn du das ganze Wochenende mit einem [Zelt übernachten möchtest, kostet das ca. 42€](https://sonderborgcamping.dk/ge/) (die Preise auf der Seite sind in dänischen Kronen angegeben). Eine [Hütte für zwei Personen gibt es ab 135€ für das ganze Wochenende](https://sonderborgcamping.dk/ge/campinghutten/2-personen-hutte.aspx). Es gibt auch größere Hütten. (https://sonderborgcamping.dk/ge/campinghutten.aspx).

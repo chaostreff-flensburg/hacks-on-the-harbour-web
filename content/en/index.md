@@ -125,6 +125,11 @@ In Langballigau there is also a bicycle ferry to the Danish side of the fjord.
 
 All participants must arrange their own accommodation. The library is closed at night. There is **no** overnight accommodation in the library.
 
+### Local school gym
+Basic accommodation in a local school gym. You will need to bring all your own sleeping equipment. One large shared room. Showers available. Please be quiet and respectful when using this facility. 1km/15min walk from the library. 
+**You NEED to get a ticket for this option**
+[Ticket](https://tickets.chaostreff-flensburg.de/hoth/hoth23/) 
+
 #### Tents and cabins
 
 There is the possibility to stay at [Sønderborg Camping](https://sonderborgcamping.dk/uk/) directly at the beach and only 30min walk/6min drive from the venue. If you want to stay the whole weekend with a [tent, it costs about 42€](https://sonderborgcamping.dk/uk/) (the prices on the site are in Danish kroner). A [cabin for two people is available from 135€ for the whole weekend](https://sonderborgcamping.dk/uk/campinghutten/2-personen-hutte.aspx). There are also larger cabins. (https://sonderborgcamping.dk/uk/campinghutten.aspx).
