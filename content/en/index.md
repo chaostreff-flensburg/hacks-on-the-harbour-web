@@ -36,7 +36,7 @@ Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 | :-- | :-- |
 | 11:42 | Set-up |
 | 18:42 | [Opening](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/BBGWJ8/) |
-| 19:00 | [What the f*** is up with Europe? A conversation about digital EU politics in the present and future with Karen Melchior](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/TPLX9Z/) |
+| 19:00 | [What the f*** is up with Europe? A conversation about digital EU politics in the present and future with Karen Melchior](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/TPLX9Z/). We need your questions. [Please write them here!] |
 | 20:00 | [Hot-Dog Buffet](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/ASTGF7/) |
 | 21:00 | [Tour of the library by Claus](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/HFCHQV/) |
 | 23:59 | End of Day 1 |
