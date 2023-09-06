@@ -56,7 +56,7 @@ Datum: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 
 | When | What |
 | :-- | :-- |
-| 08:00 | Doors Opening Day 2 |
+| 08:00 | Doors Opening Day 3 |
 | 12:15 | [Closing & Goodbye](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/DND3DV/) |
 | until ready | Dismantling |
 
