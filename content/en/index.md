@@ -67,7 +67,7 @@ Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 
 ### Self Organised Session (SOS)
 
-Of course, you can also spontaneously offer your own sessions. There is a [SoS Pad] (https://md.ctfl.space/hoth23_sos?view) for this purpose, where you can register. It's best if you also draw attention to it in other ways (e.g. Matrix).
+Of course, you can also spontaneously offer your own sessions. There is a [SoS Pad](https://md.ctfl.space/hoth23_sos?view) for this purpose, where you can register. It's best if you also draw attention to it in other ways (e.g. Matrix).
 
 ## FAQ
 
