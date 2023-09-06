@@ -27,15 +27,18 @@ Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 
 ## Programm
 
+[Detailed programme under Pretalx](https://pretalx.chaostreff-flensburg.de/hoth2023/schedule/#)
+
+
 ### Friday - Day 1
 
 | When | What |
 | :-- | :-- |
 | 11:42 | Set-up |
-| 18:42 | Opening |
-| 19:00 | What the f*** is up with Europe? A conversation about digital EU politics in the present and future with Karen Melchior |
-| 20:00 | Hot-Dog Buffet |
-| 21:00 | Tour of the libary by Claus |
+| 18:42 | [Opening](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/BBGWJ8/) |
+| 19:00 | [What the f*** is up with Europe? A conversation about digital EU politics in the present and future with Karen Melchior](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/TPLX9Z/) |
+| 20:00 | [Hot-Dog Buffet](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/ASTGF7/) |
+| 21:00 | [Tour of the library by Claus](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/HFCHQV/) |
 | 23:59 | End of Day 1 |
 
 ### Saturday - Day 2
@@ -43,11 +46,11 @@ Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 | When | What |
 | :-- | :-- |
 | 08:00 | Doors Opening Day 2 |
-| 11:00 | Soldering Introductory Workshop at the Soldering Station with Sven |
-| 12:00 | 3D Printing Taster Workshop at the 3D Printing Station with Alex |
-| 14:00 | Toki pona for hackers | 
-| 15:30 | How to erase one's old identity | 
-| 17:00 | Pizza |
+| 11:00 | [Soldering Introductory Workshop at the Soldering Station with Sven](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/UZ8NZ7/) |
+| 12:00 | [3D Printing Taster Workshop at the 3D Printing Station with Alex](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/E8MDC8/) |
+| 14:00 | [Toki pona for hackers](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/LTQU89/) | 
+| 15:30 | [How to erase one's old identity](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/GNXDAJ/) | 
+| 17:00 | [Pizza](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/DK99SJ/) |
 | 23:59 | End of Day 2 |
 
 ### Sunday - Day 3
@@ -55,11 +58,12 @@ Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 | When | What |
 | :-- | :-- |
 | 08:00 | Doors Opening Day 2 |
-| 12:15 | Closing & Goodbye |
+| 12:15 | [Closing & Goodbye](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/DND3DV/) |
 | until ready | Dismantling |
 
 :arrow_right: The programme is always WIP (Work in Progress).
 
+[Detailed programme under Pretalx](https://pretalx.chaostreff-flensburg.de/hoth2023/schedule/#)
 
 
 ## FAQ
