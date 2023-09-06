@@ -66,6 +66,10 @@ Während der gesamten Zeit werden eine 3D-Druckstation und eine Lötstation zur 
 
 [Detailliertes Programm unter Pretalx](https://pretalx.chaostreff-flensburg.de/hoth2023/schedule/#)
 
+### Self Organised Session (SOS)
+
+Natürlich könnt ihr auch spontan eigene Sessions anbieten. Dafür gibt es ein [SoS Pad] (https://md.ctfl.space/hoth23_sos?view), auf dem ihr euch eintragen könnt. Am besten macht ihr auch auf anderen Wegen (z.B. Matrix) darauf aufmerksam.
+
 ## FAQ
 
 [[toc]]
