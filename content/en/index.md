@@ -36,7 +36,7 @@ Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 | :-- | :-- |
 | 11:42 | Set-up |
 | 18:42 | [Opening](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/BBGWJ8/) |
-| 19:00 | [What the f*** is up with Europe? A conversation about digital EU politics in the present and future with Karen Melchior](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/TPLX9Z/). We need your questions. [Please write them here!] |
+| 19:00 | [What the f*** is up with Europe? A conversation about digital EU politics in the present and future with Karen Melchior](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/TPLX9Z/). We need your questions. [Please write them here!](https://md.ctfl.space/hoth23_ama) |
 | 20:00 | [Hot-Dog Buffet](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/ASTGF7/) |
 | 21:00 | [Tour of the library by Claus](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/HFCHQV/) |
 | 23:59 | End of Day 1 |
@@ -84,7 +84,7 @@ You shouldn't come if you believe in conspiracy myths or don't want to "Be excel
 ### Communication during the event
 
 A public Matrix room will be available for the participants of this event. Matrix is a free and public communication platform. 
-Access to the Matrix room can be found here [#hoth-public:chaos.now](https://matrix.to/#/#hoth-public:chaos.jetzt).
+Access to the Matrix room can be found here [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt).
 More information about Matrix can be found on the [element page](https://element.io/).
 
 ### Where is the event located?
