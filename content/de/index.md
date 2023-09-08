@@ -190,6 +190,9 @@ Tagsüber gibt es zwei Ruheräume. Ihr könnt sie benutzen, wenn ihr eine ruhige
 Der zweite Raum ist der Raum M3.2, er ist etwas kleiner und hat keine direkte Fensterfront nach draußen. Er kann ebenfalls als Quiet Hackspace genutzt werden.
 Wenn du Hilfe brauchst, den Raum zu finden, kannst du dich jederzeit an die Orga und das Bibliothekspersonal wenden. Beide Räume sind ausgeschildert.
 
+### Feedback
+Du hast Feedback? Wir haben ein [Pad](https://md.ctfl.space/hoth23_feedback)
+
 ## Kontakt
 
 * E-Mail: hoth@chaostreff-flensburg.de

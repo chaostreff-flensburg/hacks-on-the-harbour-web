@@ -179,6 +179,9 @@ The second room is room M3.2, it is a little smaller and has no direct window fr
 The second room is room M3.2, it is slightly smaller and does not have a direct window to the outside. 
 If you need help finding the room, you can always contact the Orga and the library staff. Both rooms are signposted.
 
+### Feedback
+You have feedback? We like to get [it into our pad](https://md.ctfl.space/hoth23_feedback)?
+
 ## Contact Details?
 
 * Email: hoth@chaostreff-flensburg.de
