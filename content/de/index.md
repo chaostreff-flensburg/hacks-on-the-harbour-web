@@ -125,6 +125,9 @@ Aufgrund der geringen Nachfrage wird es in diesem Jahr keinen Shuttle-Bus ab Fle
 #### 🚌 Bus
 Du kannst die Bus Linie 110 (der Fahrgesellschaft Sydtrafik) von Flensburg zu der Station "Arnkilgade v sygehuset" nehmen und dann 15 Minuten zu Fuß laufen. Insgesamt brauchst du dafür 1:20 Stunden. Der Preis liegt bei etwa 6€. Weitere Informationen kannst du auf der Webseite finden: [sydatrafik.dk](https://www.sydtrafik.dk/) -> "Rejseplanen".
 Wenn der Preis für dich ein Problem darstellt, schreibe eine E-Mail an hoth@chaostreff-flensburg.de und wir werden eine Lösung finden. Zum Beispiel: Rückerstattung der Bus-Reisekosten.
+Hinweise aus der Community: 
+1. Die 110 zwischen Flensburg & Sønderborg fährt bis/ab FL ZOB, von wo es 22 Minuten Fußweg oder 4 panische Busminuten bis zum Bahnhof sind. 
+2. Im Bus von Sønderborg kann man nicht mit Euro bezahlen. Die RejseBillet-App nimmt nur Kreditkarten (Generell kann man in Dänemark nicht mit Euro sondern nur mit Kronen bezahlen).
 
 #### 🛥️ Fahrrad und Schiff
 Es gibt keine direkte Fährverbindung nach Sønderborg.
