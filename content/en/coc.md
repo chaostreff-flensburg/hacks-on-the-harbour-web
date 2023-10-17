@@ -1,3 +1,10 @@
+---
+lang: en
+id: coc
+layout: Default.tsx
+url: /coc/
+---
+
 # Code of Conduct - Chaostreff Flensburg e.V. Events
 
 [[toc]]

@@ -1,3 +1,10 @@
+---
+lang: en
+id: index
+layout: Default.tsx
+url: /
+---
+
 # Hacks on the Harbour 2023
 
 Hacks on the Harbour is a maker & hacker festival - right next to Sønderborg harbour. We pair a great view with a diverse schedule. Expect several workshops, inspiring talks and a lot of space to connect with new people!
@@ -11,23 +18,15 @@ A ticket is required to attend the event. This helps us with the planning. **Tic
 
 Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 
-<corevideoplayer
-  src="/hoth-drohne.webm"
-  cover="/play-button-svgrepo-com.svg"
-  preload="metadata"
-  lang="en"
-  title="Sønderborg Hafen, Drone Video"
-  controls="auto"
-  :autoplay=false
-  :muted=true
-  :loop=false
-  alt="Drone Video in which the Multicultural House in Sønderborg can be seen.">
-</corevideoplayer>
+<video class="w-full" controls autoplay muted loop>
+  <source src="/assets/hoth-drohne.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>
 🎥 Video from [faab_e](https://twitter.com/faab_e)
 
-## Programm
+## Program
 
-[Detailed programme under Pretalx](https://pretalx.chaostreff-flensburg.de/hoth2023/schedule/#)
+[Detailed programs under Pretalx](https://pretalx.chaostreff-flensburg.de/hoth2023/schedule/#)
 
 
 ### Friday - Day 1

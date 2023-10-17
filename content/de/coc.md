@@ -1,9 +1,16 @@
+---
+lang: de
+id: coc
+layout: Default.tsx
+url: /coc/
+---
+
 # Code of Conduct - Chaostreff Flensburg e.V. Events
 
 [[toc]]
 
-
 ## Deutsche Fassung
+
 ### Wieso dieser Code of Conduct?
 * Weil wir möchten, dass das unsere Events ein Ort zum Wohlfühlen und ohne Diskriminierung und Belästigung ist. Menschen, die bei Veranstaltungen ggf. schlechte Erfahrungen gemacht haben, sollen sehen, das wir Diskriminierung und Belästigung ernst nehmen und nicht tolerieren.
 * Wenn Menschen Diskriminierung und Belästigung erleben, sollen sie wissen, wo sie sich hin wenden können und sich trauen, dies auch zu tun, weil sie wissen, dass sie ernst genommen werden.
