@@ -43,4 +43,4 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USER_NAME }}
           key: ${{ secrets.PRIVATE_KEY}}
-          script: cd ccs-website && docker compose pull && docker compose up -d
+          script: cd hoth && docker compose pull && docker compose up -d
