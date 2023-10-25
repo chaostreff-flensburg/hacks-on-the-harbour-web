@@ -1,5 +1,5 @@
 export default (props) => (
-  <nav class="bg-white flex justify-between items-center justify-evenly py-3 text-xl mb-6 rounded sticky top-0">
+  <nav class="bg-white flex justify-between items-center justify-evenly py-3 text-xl mb-6 rounded sticky top-0 shadow-lg">
     {props.lang === "en" ? (
       <>
         <a

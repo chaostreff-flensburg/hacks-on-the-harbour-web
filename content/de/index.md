@@ -15,7 +15,7 @@ Für die Teilnahme an der Veranstaltung ist ein Ticket erforderlich. Das hilft u
 
 <a href="https://tickets.chaostreff-flensburg.de/hoth/hoth23/" target="_blank">Tickets</a>
 
-Datum: 08. - 10.09.2023 | [.ics](/hoth23.ics)
+Datum: 08. - 10.09.2023 | [.ics](/assets/hoth23.ics)
 
 
 <video class="w-full" controls autoplay muted loop>

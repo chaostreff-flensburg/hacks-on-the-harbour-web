@@ -16,7 +16,7 @@ A ticket is required to attend the event. This helps us with the planning. **Tic
 
 <a href="https://tickets.chaostreff-flensburg.de/hoth/hoth23/" target="_blank">Tickets</a>
 
-Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
+Date: 08. - 10.09.2023 | [.ics](/assets/hoth23.ics)
 
 <video class="w-full" controls autoplay muted loop>
   <source src="/assets/hoth-drohne.webm" type="video/webm">
