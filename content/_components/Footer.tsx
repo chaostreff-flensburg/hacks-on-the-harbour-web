@@ -1,5 +1,5 @@
 export default ({ text }) => (
-  <footer class="bg-footerBackground w-full">
+  <footer class="bg-footerBackground w-full z-10 relative">
     <section class="max-w-4xl mx-auto px-4 py-6 flex justify-between prose">
       <p class="mb-0">
         Eine Veranstaltung des{" "}

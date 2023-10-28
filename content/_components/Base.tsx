@@ -12,7 +12,8 @@ export default ({ title, children, ...props }) => (
 
       <link rel="icon" href="/favicon.ico" />
       <link rel="stylesheet" href="/styles.css"></link>
+      <script src="/assets/rakede-animation.js"></script>
     </head>
-    <body class="bg-background font-mono text-dark">{children}</body>
+    <body class="bg-background font-mono text-dark w-full">{children}</body>
   </html>
 );
