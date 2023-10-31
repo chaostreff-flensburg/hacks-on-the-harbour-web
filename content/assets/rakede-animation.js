@@ -1,5 +1,6 @@
 const rakedeImagePath = '/assets/rakede-farbe.webp';
 const rakedeAcceleration = 0.01;
+const rakedeAccelerationVariation = 0.005;
 const countRakedes = 10;
 
 let mousePositionSet = false;
@@ -31,7 +32,7 @@ document.addEventListener('DOMContentLoaded', async function () {
     //
   }
   rakedes.forEach((rakede, index) => rakede.init({
-    delay: index * 1000 + Math.random() * 100
+    delay: index * 100 + Math.random() * 100
   }))
 
   function update() {
@@ -84,7 +85,7 @@ async function spawnRakede(ctx) {
       const startX = Math.floor(centerOfScreenX + Math.cos(randomStartAngle) * screenDiagonal / 2);
       const startY = Math.floor(centerOfScreenY + Math.sin(randomStartAngle) * screenDiagonal / 2);
 
-      const angleVariation = Math.PI / 3;
+      const angleVariation = Math.PI;
       const randomTargetAngle = randomStartAngle + Math.PI + (Math.random() * 2 * angleVariation - angleVariation);
 
       const targetX = Math.floor(centerOfScreenX + Math.cos(randomTargetAngle) * screenDiagonal / 2);
@@ -97,6 +98,7 @@ async function spawnRakede(ctx) {
       this.vx = 0;
       this.vy = 0;
       this.rotation = angleStartToTarget
+      this.acceleration = rakedeAcceleration + Math.random() * 2 * rakedeAccelerationVariation - rakedeAccelerationVariation;
 
     },
     render(xtx) {
