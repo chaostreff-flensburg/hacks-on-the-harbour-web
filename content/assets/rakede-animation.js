@@ -28,8 +28,6 @@ document.addEventListener('DOMContentLoaded', async function () {
   const rakedes = [];
   for (let i = 0; i < countRakedes; i++) {
     rakedes.push(await spawnRakede(ctx));
-
-    //
   }
   rakedes.forEach((rakede, index) => rakede.init({
     delay: index * 100 + Math.random() * 100
@@ -67,7 +65,7 @@ async function spawnRakede(ctx) {
     width: 25,
     height: 50,
     running: false,
-    init ({delay}) {
+    init({ delay }) {
       this.reset()
       setTimeout(() => {
         this.running = true;
@@ -107,7 +105,7 @@ async function spawnRakede(ctx) {
       }
       xtx.save();
       xtx.translate(this.x, this.y);
-      xtx.rotate(this.rotation + Math.PI/2);
+      xtx.rotate(this.rotation + Math.PI / 2);
       xtx.drawImage(image, -this.width / 2, -this.height / 2, this.width, this.height);
       xtx.restore();
     },
