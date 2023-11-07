@@ -1,3 +1,10 @@
+---
+lang: en
+id: index
+layout: Default.tsx
+url: /
+---
+
 # Hacks on the Harbour 2023
 
 Hacks on the Harbour is a maker & hacker festival - right next to Sønderborg harbour. We pair a great view with a diverse schedule. Expect several workshops, inspiring talks and a lot of space to connect with new people!
@@ -9,25 +16,17 @@ A ticket is required to attend the event. This helps us with the planning. **Tic
 
 <a href="https://tickets.chaostreff-flensburg.de/hoth/hoth23/" target="_blank">Tickets</a>
 
-Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
+Date: 08. - 10.09.2023 | [.ics](/assets/hoth23.ics)
 
-<corevideoplayer
-  src="/hoth-drohne.webm"
-  cover="/play-button-svgrepo-com.svg"
-  preload="metadata"
-  lang="en"
-  title="Sønderborg Hafen, Drone Video"
-  controls="auto"
-  :autoplay=false
-  :muted=true
-  :loop=false
-  alt="Drone Video in which the Multicultural House in Sønderborg can be seen.">
-</corevideoplayer>
+<video class="w-full" controls autoplay muted loop>
+  <source src="/assets/hoth-drohne.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>
 🎥 Video from [faab_e](https://twitter.com/faab_e)
 
-## Programm
+## Program
 
-[Detailed programme under Pretalx](https://pretalx.chaostreff-flensburg.de/hoth2023/schedule/#)
+[Detailed programs under Pretalx](https://pretalx.chaostreff-flensburg.de/hoth2023/schedule/#)
 
 
 ### Friday - Day 1
@@ -70,8 +69,6 @@ Date: 08. - 10.09.2023 | [.ics](/hoth23.ics)
 Of course, you can also spontaneously offer your own sessions. There is a [SoS Pad](https://md.ctfl.space/hoth23_sos?view) for this purpose, where you can register. It's best if you also draw attention to it in other ways (e.g. Matrix).
 
 ## FAQ
-
-[[toc]]
 
 You have more questions? Feel free to write us an email at hoth@chaostreff-flensburg.de
 
