@@ -72,8 +72,6 @@ Natürlich könnt ihr auch spontan eigene Sessions anbieten. Dafür gibt es ein 
 
 ## FAQ
 
-[[toc]]
-
 Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an hoth@chaostreff-flensburg.de
 
 ### An wen richtet sich die Veranstaltung?

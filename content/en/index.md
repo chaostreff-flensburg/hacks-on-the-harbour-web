@@ -70,8 +70,6 @@ Of course, you can also spontaneously offer your own sessions. There is a [SoS P
 
 ## FAQ
 
-[[toc]]
-
 You have more questions? Feel free to write us an email at hoth@chaostreff-flensburg.de
 
 ### Who is the event aimed at?
