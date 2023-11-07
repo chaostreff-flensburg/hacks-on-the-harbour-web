@@ -7,8 +7,6 @@ url: /coc/
 
 # Code of Conduct - Chaostreff Flensburg e.V. Events
 
-[[toc]]
-
 ## Deutsche Fassung
 
 ### Wieso dieser Code of Conduct?
