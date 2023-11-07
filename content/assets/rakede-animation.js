@@ -15,6 +15,33 @@ document.addEventListener('mousemove', function (event) {
 
 console.log('rakede-animation.js loading');
 document.addEventListener('DOMContentLoaded', async function () {
+
+  // if #keineRakeden is in the url, don't load the animation
+  let showRakeden = window.location.hash !== '#keineRakeden'
+
+  const rakedenStopButton = document.getElementById('stop-rakeden');
+  const rakedenStartButton = document.getElementById('start-rakeden');
+  rakedenStopButton.addEventListener('click', () => {
+    showRakeden = false;
+    rakedenStopButton.style.display = 'none';
+    rakedenStartButton.style.display = 'block';
+    ;
+  })
+  rakedenStartButton.addEventListener('click', () => {
+    showRakeden = true;
+    rakedenStopButton.style.display = 'block';
+    rakedenStartButton.style.display = 'none';
+    update()
+  })
+
+  if (!showRakeden) {
+    rakedenStopButton.style.display = 'none';
+    rakedenStartButton.style.display = 'block';
+  } else {
+    rakedenStopButton.style.display = 'block';
+    rakedenStartButton.style.display = 'none';
+  }
+
   const canvas = document.getElementById('rakede-canvas');
   resizeCanvas();
   function resizeCanvas() {
@@ -39,7 +66,9 @@ document.addEventListener('DOMContentLoaded', async function () {
       rakede.update();
       rakede.render(ctx);
     });
-    requestAnimationFrame(update);
+    if (showRakeden) {
+      requestAnimationFrame(update);
+    }
   }
   update();
 
