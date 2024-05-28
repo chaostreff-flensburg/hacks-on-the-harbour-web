@@ -1,3 +1,10 @@
+---
+lang: de
+id: index
+layout: Default.tsx
+url: /
+---
+
 # Hacks on the Harbour 2023
 
 Das Hacks on the Harbour ist ein Maker & Hacker Festival - direkt am Hafen von Sønderborg. Es gibt eine schöne Aussicht und einen abwechslungsreichen Tagesplan, sowie viele unterschiedliche Workshops und inspirierende Vorträge - und natürlich jede Menge Platz, um neue Kontakte zu knüpfen!
@@ -8,21 +15,14 @@ Für die Teilnahme an der Veranstaltung ist ein Ticket erforderlich. Das hilft u
 
 <a href="https://tickets.chaostreff-flensburg.de/hoth/hoth23/" target="_blank">Tickets</a>
 
-Datum: 08. - 10.09.2023 | [.ics](/hoth23.ics)
+Datum: 08. - 10.09.2023 | [.ics](/assets/hoth23.ics)
 
 
-<corevideoplayer
-  src="/hoth-drohne.webm"
-  cover="/play-button-svgrepo-com.svg"
-  preload="metadata"
-  lang="en"
-  title="Sønderborg Hafen, Drohnen Video"
-  controls="auto"
-  :autoplay=false
-  :muted=true
-  :loop=false
-  alt="Drone video showing the Multicultural House in Sønderborg.">
-</corevideoplayer>
+<video class="w-full" controls autoplay muted loop>
+  <source src="/assets/hoth-drohne.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>
+
 🎥 Video von [faab_e](https://twitter.com/faab_e)
 
 ## Programm
@@ -71,8 +71,6 @@ Während der gesamten Zeit werden eine 3D-Druckstation und eine Lötstation zur 
 Natürlich könnt ihr auch spontan eigene Sessions anbieten. Dafür gibt es ein [SoS Pad](https://md.ctfl.space/hoth23_sos?view), auf dem ihr euch eintragen könnt. Am besten macht ihr auch auf anderen Wegen (z.B. Matrix) darauf aufmerksam.
 
 ## FAQ
-
-[[toc]]
 
 Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an hoth@chaostreff-flensburg.de
 

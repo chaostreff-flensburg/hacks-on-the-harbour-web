@@ -1,6 +1,11 @@
-# Code of Conduct - Chaostreff Flensburg e.V. Events
+---
+lang: en
+id: coc
+layout: Default.tsx
+url: /coc/
+---
 
-[[toc]]
+# Code of Conduct - Chaostreff Flensburg e.V. Events
 
 ## English Version
 
