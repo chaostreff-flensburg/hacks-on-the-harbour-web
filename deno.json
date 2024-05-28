@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "lume": "deno run --unstable -A build.ts",
+    "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",
     "build": "deno task lume",
     "serve": "deno task lume -s",
     "lock": "deno cache --lock-write build.ts"
@@ -10,6 +10,6 @@
     "jsxImportSource": "npm:preact"
   },
   "imports": {
-    "lume/": "https://deno.land/x/lume@v1.19.1/"
+    "lume/": "https://deno.land/x/lume@v2.2.0/"
   }
 }
